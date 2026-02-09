@@ -1,0 +1,182 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║         RISK ASSESSMENT VALIDATION DASHBOARD - QUICK REFERENCE             ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+📊 PROJECT STATUS: ✅ COMPLETE & READY FOR PRESENTATION
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 QUICK START (2 commands)
+
+  cd D:/Projects/risk-dashboard
+  npm run dev
+
+  → Opens at http://localhost:5173 ✓ (Currently Running)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 DASHBOARD SECTIONS (Scroll-based)
+
+1. Header - Logo, cycle info, timestamp
+2. Executive Summary - 5 KPI cards, progress bar, ROI metrics
+3. Risk Heat Map - Interactive 8x6 matrix with tooltips
+4. Discrepancy Analysis - Scatter plot + top 5 critical cases
+5. Entity Deep Dive - 4 expandable cards with AI narratives
+6. Validation Workflow - 6-stage pipeline + team performance
+7. Data Source Reconciliation - 5 sources + match rates
+8. Footer - Branding, links, disclaimer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💻 TECH STACK
+
+React 18 + Vite 5 + Tailwind CSS 4 + Recharts + Framer Motion
+All data: Static JSON (no APIs needed)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 PRESENTATION FLOW (15-20 min)
+
+1. Opening (1 min) - Show impact: 312h → 4.2h automation
+2. Executive Summary (3 min) - 247 entities, 38 need review, 209 validated
+3. Heat Map (4 min) - Demo interactive cells with hover tooltips
+4. Discrepancy Analysis (3 min) - Explain false negatives (dangerous!)
+5. Entity Deep Dive (5 min) - Expand a case, read AI narrative
+6. Validation Workflow (3 min) - Show 6-stage pipeline + team stats
+7. Data Sources (2 min) - 5 sources, 79-95% match rate
+8. Closing (2 min) - ROI: $26K+ saved, 98.7% time reduction
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎨 KEY NUMBERS TO HIGHLIGHT
+
+Entities: 247 total
+  Auto-Validated: 209 (84.6%)
+  Flagged: 38 (15.4%)
+    False Negatives: 9 (CRITICAL!)
+    False Positives: 29
+
+Time: 312h (manual) → 4.2h (automated) = 98.7% reduction
+Cost: $85/hour × 312h = $26,163 savings per cycle
+
+Team: 6 analysts, 24/38 reviews completed (63%)
+
+Data: 5 sources, 79-95% match rates
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔧 USEFUL COMMANDS
+
+npm run dev           → Start dev server (already running on :5173)
+npm run build         → Build for production (creates dist/)
+npm run preview       → Preview production build locally
+npm install           → Install dependencies
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📂 KEY FILES
+
+Documentation:
+  README.md - Feature overview
+  LAUNCH.md - 60-second quick start
+  PRESENTATION_SCRIPT.md - Full presentation script with talking points
+  PROJECT_SUMMARY.md - Technical architecture overview
+  QUICK_REFERENCE.txt - This file
+
+Data (Edit to change metrics):
+  Data/entities.json - 247 business entities
+  Data/discrepancies.json - 38 flagged cases
+  Data/risk_matrix.json - Heat map cells
+  Data/workflow_stats.json - Pipeline + team stats
+  Data/challenge_reports.json - AI narratives
+
+Source Code:
+  src/App.jsx - Main app
+  src/components/ - 8 React components
+  src/index.css - Styles
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎨 DESIGN
+
+Color Palette:
+  Blue (#3b82f6) - Primary, information
+  Green (#10b981) - Validated, success
+  Red (#ef4444) - Critical, false negatives
+  Amber (#f59e0b) - Warning, false positives
+  Purple (#8b5cf6) - AI content
+
+Font: DM Sans (professional, clean)
+Theme: Dark fintech (slate-950 background)
+
+Animations:
+  Staggered card entrance
+  Animated count-up numbers
+  Smooth progress bars
+  Interactive hover states
+  Expandable sections
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 INTERACTIVE DEMO ELEMENTS
+
+During presentation, show:
+  • Hover over heat map cells → See tooltip with scores & confidence
+  • Click entity cards → Expand to show details, chart, AI narrative
+  • Scroll page → Watch animations play
+  • Show progress bars → Filled to 84.6% completion
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 TO PRESENT
+
+1. Open terminal:
+   cd D:/Projects/risk-dashboard
+   npm run dev
+
+2. Open http://localhost:5173 in browser
+
+3. Follow PRESENTATION_SCRIPT.md for full talking points
+
+4. Demo interactive elements as you scroll through
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 TO DEPLOY
+
+1. npm run build
+2. Upload dist/ folder to Netlify, Vercel, or AWS S3
+3. Share URL with stakeholders
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✨ KEY SELLING POINTS
+
+For the Client:
+  ✓ 98.7% automation - frees team to focus on actual risk judgment
+  ✓ $26K+ cost savings per cycle
+  ✓ False negatives caught by AI (high-risk cases they missed)
+  ✓ Confidence scores on every challenge
+  ✓ Real-time tracking of team progress
+
+For the Dashboard:
+  ✓ Premium dark theme - modern fintech aesthetic
+  ✓ Smooth animations - professional polish
+  ✓ Interactive elements - engaging for stakeholders
+  ✓ Data-dense but not cluttered
+  ✓ Numbers tell coherent story across sections
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Status: ✅ READY FOR PRESENTATION
+Current Dev Server: http://localhost:5173 (port 5173)
+Build: ✅ Successful (834.68 kB JS, 37.67 kB CSS)
+Components: ✅ All 8 working
+Data: ✅ All 5 JSON files loaded
+Animations: ✅ All smooth transitions
+Responsive: ✅ 1920x1080 optimized
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Created: February 2026
+Location: D:\Projects\risk-dashboard

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Test</title>
+  <style>
+    body {
+      background: #0f172a;
+      color: white;
+      font-family: Arial;
+      padding: 20px;
+    }
+    div {
+      background: #1e293b;
+      padding: 10px;
+      margin: 10px 0;
+      border: 1px solid #334155;
+    }
+  </style>
+</head>
+<body>
+  <h1>Vite Dev Server Test</h1>
+  <div id="status"></div>
+  <script>
+    const status = document.getElementById('status');
+
+    fetch('http://localhost:5173/')
+      .then(r => r.text())
+      .then(html => {
+        status.innerHTML = '<p>✅ Server is responding</p>';
+        if (html.includes('root')) {
+          status.innerHTML += '<p>✅ HTML contains root element</p>';
+        }
+        if (html.includes('main.jsx')) {
+          status.innerHTML += '<p>✅ HTML includes main.jsx</p>';
+        }
+      })
+      .catch(e => {
+        status.innerHTML = '<p>❌ Error: ' + e.message + '</p>';
+      });
+  </script>
+  <p style="color: #94a3b8; font-size: 12px; margin-top: 20px;">
+    If you see green checks above, the issue is in the browser. Try opening Developer Tools (F12) and checking the Console tab at http://localhost:5173
+  </p>
+</body>
+</html>

@@ -1,0 +1,207 @@
+[
+  {
+    "discrepancy_id": "DISC-0002",
+    "entity_id": "ENT-0210",
+    "entity_name": "Private Banking LATAM Unit E",
+    "risk_category": "Liquidity Risk",
+    "severity": "Critical",
+    "self_assessed": {
+      "score": 5,
+      "label": "Critical"
+    },
+    "system_calculated": {
+      "score": 2,
+      "label": "Low"
+    },
+    "confidence": 0.87,
+    "challenge_narrative": "Analysis indicates Private Banking LATAM Unit E's Liquidity Risk rating of Critical may be overly conservative. Incident frequency is 270% below peer average, and all 23 controls passed effectiveness testing. System suggests Low is more appropriate.",
+    "supporting_evidence": [
+      {
+        "source": "Risk Self-Assessment System",
+        "finding": "Low risk indicators detected",
+        "weight": 0.16
+      },
+      {
+        "source": "Loss Event Database",
+        "finding": "Low risk indicators detected",
+        "weight": 0.28
+      },
+      {
+        "source": "KRI Dashboard",
+        "finding": "Low risk indicators detected",
+        "weight": 0.23
+      },
+      {
+        "source": "Regulatory Reports",
+        "finding": "Low risk indicators detected",
+        "weight": 0.25
+      },
+      {
+        "source": "Incident Database",
+        "finding": "Low risk indicators detected",
+        "weight": 0.23
+      }
+    ],
+    "recommendation": "Reclassify from Critical to Low",
+    "status": "Challenged",
+    "assigned_to": "Sarah Chen"
+  },
+  {
+    "discrepancy_id": "DISC-0003",
+    "entity_id": "ENT-0116",
+    "entity_name": "Transaction Banking LATAM Unit B",
+    "risk_category": "Credit Risk",
+    "severity": "Critical",
+    "self_assessed": {
+      "score": 5,
+      "label": "Critical"
+    },
+    "system_calculated": {
+      "score": 2,
+      "label": "Low"
+    },
+    "confidence": 0.89,
+    "challenge_narrative": "Analysis indicates Transaction Banking LATAM Unit B's Credit Risk rating of Critical may be overly conservative. Incident frequency is 435% below peer average, and all 12 controls passed effectiveness testing. System suggests Low is more appropriate.",
+    "supporting_evidence": [
+      {
+        "source": "Regulatory Reports",
+        "finding": "Low risk indicators detected",
+        "weight": 0.15
+      },
+      {
+        "source": "Incident Database",
+        "finding": "Low risk indicators detected",
+        "weight": 0.24
+      },
+      {
+        "source": "KRI Dashboard",
+        "finding": "Low risk indicators detected",
+        "weight": 0.15
+      },
+      {
+        "source": "Loss Event Database",
+        "finding": "Low risk indicators detected",
+        "weight": 0.21
+      }
+    ],
+    "recommendation": "Reclassify from Critical to Low",
+    "status": "Challenged",
+    "assigned_to": "Michael Torres"
+  },
+  {
+    "discrepancy_id": "DISC-0019",
+    "entity_id": "ENT-0106",
+    "entity_name": "Corporate Lending NAM Unit C",
+    "risk_category": "Market Risk",
+    "severity": "Critical",
+    "self_assessed": {
+      "score": 2,
+      "label": "Low"
+    },
+    "system_calculated": {
+      "score": 5,
+      "label": "Critical"
+    },
+    "confidence": 0.74,
+    "challenge_narrative": "Cross-referencing Corporate Lending NAM Unit C's Market Risk self-assessment (Low) against external audit findings reveals 11 unresolved control deficiencies. Historical loss data indicates exposure of $6.0M, inconsistent with a Low rating. System recommends Critical.",
+    "supporting_evidence": [
+      {
+        "source": "Loss Event Database",
+        "finding": "Elevated risk indicators detected",
+        "weight": 0.26
+      },
+      {
+        "source": "Audit Findings",
+        "finding": "Elevated risk indicators detected",
+        "weight": 0.21
+      },
+      {
+        "source": "External Ratings",
+        "finding": "Elevated risk indicators detected",
+        "weight": 0.17
+      }
+    ],
+    "recommendation": "Reclassify from Low to Critical",
+    "status": "Challenged",
+    "assigned_to": "Priya Patel"
+  },
+  {
+    "discrepancy_id": "DISC-0020",
+    "entity_id": "ENT-0140",
+    "entity_name": "Investment Banking LATAM Unit A",
+    "risk_category": "Technology Risk",
+    "severity": "Critical",
+    "self_assessed": {
+      "score": 2,
+      "label": "Low"
+    },
+    "system_calculated": {
+      "score": 5,
+      "label": "Critical"
+    },
+    "confidence": 0.73,
+    "challenge_narrative": "Investment Banking LATAM Unit A self-assessed Technology Risk as Low. However, analysis of 15 incident reports from Q3-Q4 2025 shows a 286% increase in control breaches. KRI breach rate is 2.5x above threshold. Recommend reclassification to Critical with immediate review.",
+    "supporting_evidence": [
+      {
+        "source": "Incident Database",
+        "finding": "Elevated risk indicators detected",
+        "weight": 0.25
+      },
+      {
+        "source": "Regulatory Reports",
+        "finding": "Elevated risk indicators detected",
+        "weight": 0.29
+      },
+      {
+        "source": "External Ratings",
+        "finding": "Elevated risk indicators detected",
+        "weight": 0.19
+      },
+      {
+        "source": "Audit Findings",
+        "finding": "Elevated risk indicators detected",
+        "weight": 0.25
+      }
+    ],
+    "recommendation": "Reclassify from Low to Critical",
+    "status": "Pending Review",
+    "assigned_to": "James O'Brien"
+  },
+  {
+    "discrepancy_id": "DISC-0023",
+    "entity_id": "ENT-0009",
+    "entity_name": "Insurance Services LATAM Unit B",
+    "risk_category": "Credit Risk",
+    "severity": "Critical",
+    "self_assessed": {
+      "score": 5,
+      "label": "Critical"
+    },
+    "system_calculated": {
+      "score": 2,
+      "label": "Low"
+    },
+    "confidence": 0.84,
+    "challenge_narrative": "Insurance Services LATAM Unit B self-assessed Credit Risk as Critical. However, validation against 6 data sources shows no supporting evidence for elevated risk. Control effectiveness is rated 99% with zero KRI breaches in the past 12 months. Recommend reclassification to Low.",
+    "supporting_evidence": [
+      {
+        "source": "Risk Self-Assessment System",
+        "finding": "Low risk indicators detected",
+        "weight": 0.31
+      },
+      {
+        "source": "External Ratings",
+        "finding": "Low risk indicators detected",
+        "weight": 0.28
+      },
+      {
+        "source": "Regulatory Reports",
+        "finding": "Low risk indicators detected",
+        "weight": 0.18
+      }
+    ],
+    "recommendation": "Reclassify from Critical to Low",
+    "status": "Validated",
+    "assigned_to": "David Kim"
+  }
+]

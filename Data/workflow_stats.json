@@ -1,0 +1,135 @@
+{
+  "cycle": "Q4 2025",
+  "generated_date": "2026-02-06",
+  "pipeline": [
+    {
+      "stage": "Data Ingestion",
+      "label": "Entities Loaded",
+      "count": 247,
+      "status": "complete",
+      "time_taken_hours": 0.3
+    },
+    {
+      "stage": "Data Reconciliation",
+      "label": "Sources Cross-Referenced",
+      "count": 247,
+      "sources": 5,
+      "status": "complete",
+      "time_taken_hours": 0.8
+    },
+    {
+      "stage": "Automated Comparison",
+      "label": "Scoring Completed",
+      "count": 247,
+      "status": "complete",
+      "time_taken_hours": 1.2
+    },
+    {
+      "stage": "Anomaly Detection",
+      "label": "Discrepancies Flagged",
+      "count": 38,
+      "status": "complete",
+      "time_taken_hours": 0.9
+    },
+    {
+      "stage": "AI Challenge Generation",
+      "label": "Reports Generated",
+      "count": 38,
+      "status": "complete",
+      "time_taken_hours": 1.0
+    },
+    {
+      "stage": "Human Review",
+      "label": "Reviews Completed",
+      "count": 24,
+      "pending": 14,
+      "status": "in_progress",
+      "time_taken_hours": null
+    }
+  ],
+  "efficiency_metrics": {
+    "total_entities": 247,
+    "auto_validated": 209,
+    "flagged_for_review": 38,
+    "false_negatives": 9,
+    "false_positives": 29,
+    "reviews_completed": 24,
+    "reviews_pending": 14,
+    "validation_completion_pct": 84.6,
+    "estimated_manual_hours": 312,
+    "actual_automated_hours": 4.2,
+    "time_reduction_pct": 98.7,
+    "cost_per_manual_hour": 85,
+    "estimated_cost_saving": 26163
+  },
+  "team": [
+    {
+      "name": "Sarah Chen",
+      "role": "Senior Risk Analyst",
+      "reviews_assigned": 8,
+      "reviews_completed": 6
+    },
+    {
+      "name": "Michael Torres",
+      "role": "Risk Analyst",
+      "reviews_assigned": 7,
+      "reviews_completed": 5
+    },
+    {
+      "name": "Priya Patel",
+      "role": "Senior Risk Analyst",
+      "reviews_assigned": 7,
+      "reviews_completed": 5
+    },
+    {
+      "name": "James O'Brien",
+      "role": "Risk Analyst",
+      "reviews_assigned": 6,
+      "reviews_completed": 4
+    },
+    {
+      "name": "Fatima Al-Hassan",
+      "role": "Risk Manager",
+      "reviews_assigned": 5,
+      "reviews_completed": 2
+    },
+    {
+      "name": "David Kim",
+      "role": "Risk Analyst",
+      "reviews_assigned": 5,
+      "reviews_completed": 2
+    }
+  ],
+  "data_sources": [
+    {
+      "name": "Risk Self-Assessment System",
+      "records_ingested": 1482,
+      "match_rate": 0.92,
+      "status": "connected"
+    },
+    {
+      "name": "Incident Database",
+      "records_ingested": 3847,
+      "match_rate": 0.88,
+      "status": "connected"
+    },
+    {
+      "name": "KRI Dashboard",
+      "records_ingested": 12540,
+      "match_rate": 0.95,
+      "status": "connected"
+    },
+    {
+      "name": "Audit Findings Repository",
+      "records_ingested": 456,
+      "match_rate": 0.84,
+      "status": "connected"
+    },
+    {
+      "name": "External Rating Feeds",
+      "records_ingested": 892,
+      "match_rate": 0.79,
+      "status": "connected"
+    }
+  ]
+}

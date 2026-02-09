@@ -1,0 +1,677 @@
+[
+  {
+    "entity": "Retail Banking EMEA",
+    "Credit Risk": {
+      "self_assessed": 3,
+      "system_calculated": 3,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.94
+    },
+    "Operational Risk": {
+      "self_assessed": 1,
+      "system_calculated": 5,
+      "deviation": 4,
+      "status": "significant",
+      "confidence": 0.94
+    },
+    "Compliance Risk": {
+      "self_assessed": 3,
+      "system_calculated": 2,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.85
+    },
+    "Market Risk": {
+      "self_assessed": 3,
+      "system_calculated": 3,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.7
+    },
+    "Liquidity Risk": {
+      "self_assessed": 5,
+      "system_calculated": 5,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.81
+    },
+    "Technology Risk": {
+      "self_assessed": 4,
+      "system_calculated": 5,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.8
+    }
+  },
+  {
+    "entity": "Corporate Lending NAM",
+    "Credit Risk": {
+      "self_assessed": 2,
+      "system_calculated": 1,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.76
+    },
+    "Operational Risk": {
+      "self_assessed": 5,
+      "system_calculated": 5,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.94
+    },
+    "Compliance Risk": {
+      "self_assessed": 5,
+      "system_calculated": 4,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.82
+    },
+    "Market Risk": {
+      "self_assessed": 1,
+      "system_calculated": 1,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.94
+    },
+    "Liquidity Risk": {
+      "self_assessed": 1,
+      "system_calculated": 3,
+      "deviation": 2,
+      "status": "moderate",
+      "confidence": 0.8
+    },
+    "Technology Risk": {
+      "self_assessed": 3,
+      "system_calculated": 3,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.94
+    }
+  },
+  {
+    "entity": "Trade Finance APAC",
+    "Credit Risk": {
+      "self_assessed": 5,
+      "system_calculated": 5,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.75
+    },
+    "Operational Risk": {
+      "self_assessed": 3,
+      "system_calculated": 1,
+      "deviation": 2,
+      "status": "moderate",
+      "confidence": 0.92
+    },
+    "Compliance Risk": {
+      "self_assessed": 2,
+      "system_calculated": 5,
+      "deviation": 3,
+      "status": "significant",
+      "confidence": 0.91
+    },
+    "Market Risk": {
+      "self_assessed": 2,
+      "system_calculated": 2,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.79
+    },
+    "Liquidity Risk": {
+      "self_assessed": 2,
+      "system_calculated": 2,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.98
+    },
+    "Technology Risk": {
+      "self_assessed": 4,
+      "system_calculated": 3,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.72
+    }
+  },
+  {
+    "entity": "Treasury Operations EMEA",
+    "Credit Risk": {
+      "self_assessed": 4,
+      "system_calculated": 5,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.71
+    },
+    "Operational Risk": {
+      "self_assessed": 1,
+      "system_calculated": 1,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.93
+    },
+    "Compliance Risk": {
+      "self_assessed": 5,
+      "system_calculated": 3,
+      "deviation": 2,
+      "status": "moderate",
+      "confidence": 0.84
+    },
+    "Market Risk": {
+      "self_assessed": 3,
+      "system_calculated": 1,
+      "deviation": 2,
+      "status": "moderate",
+      "confidence": 0.72
+    },
+    "Liquidity Risk": {
+      "self_assessed": 1,
+      "system_calculated": 1,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.93
+    },
+    "Technology Risk": {
+      "self_assessed": 5,
+      "system_calculated": 5,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.87
+    }
+  },
+  {
+    "entity": "Wealth Management NAM",
+    "Credit Risk": {
+      "self_assessed": 2,
+      "system_calculated": 2,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.89
+    },
+    "Operational Risk": {
+      "self_assessed": 1,
+      "system_calculated": 1,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.74
+    },
+    "Compliance Risk": {
+      "self_assessed": 3,
+      "system_calculated": 3,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.8
+    },
+    "Market Risk": {
+      "self_assessed": 5,
+      "system_calculated": 5,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.85
+    },
+    "Liquidity Risk": {
+      "self_assessed": 1,
+      "system_calculated": 1,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.94
+    },
+    "Technology Risk": {
+      "self_assessed": 1,
+      "system_calculated": 1,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.91
+    }
+  },
+  {
+    "entity": "Investment Banking APAC",
+    "Credit Risk": {
+      "self_assessed": 3,
+      "system_calculated": 3,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.96
+    },
+    "Operational Risk": {
+      "self_assessed": 5,
+      "system_calculated": 3,
+      "deviation": 2,
+      "status": "moderate",
+      "confidence": 0.98
+    },
+    "Compliance Risk": {
+      "self_assessed": 1,
+      "system_calculated": 1,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.97
+    },
+    "Market Risk": {
+      "self_assessed": 1,
+      "system_calculated": 4,
+      "deviation": 3,
+      "status": "significant",
+      "confidence": 0.88
+    },
+    "Liquidity Risk": {
+      "self_assessed": 2,
+      "system_calculated": 4,
+      "deviation": 2,
+      "status": "moderate",
+      "confidence": 0.9
+    },
+    "Technology Risk": {
+      "self_assessed": 1,
+      "system_calculated": 1,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.94
+    }
+  },
+  {
+    "entity": "Asset Management LATAM",
+    "Credit Risk": {
+      "self_assessed": 4,
+      "system_calculated": 5,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.76
+    },
+    "Operational Risk": {
+      "self_assessed": 2,
+      "system_calculated": 3,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.73
+    },
+    "Compliance Risk": {
+      "self_assessed": 3,
+      "system_calculated": 2,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.84
+    },
+    "Market Risk": {
+      "self_assessed": 5,
+      "system_calculated": 5,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.84
+    },
+    "Liquidity Risk": {
+      "self_assessed": 3,
+      "system_calculated": 3,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.86
+    },
+    "Technology Risk": {
+      "self_assessed": 1,
+      "system_calculated": 1,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.8
+    }
+  },
+  {
+    "entity": "Private Banking EMEA",
+    "Credit Risk": {
+      "self_assessed": 1,
+      "system_calculated": 2,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.78
+    },
+    "Operational Risk": {
+      "self_assessed": 5,
+      "system_calculated": 5,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.9
+    },
+    "Compliance Risk": {
+      "self_assessed": 4,
+      "system_calculated": 4,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.86
+    },
+    "Market Risk": {
+      "self_assessed": 3,
+      "system_calculated": 4,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.75
+    },
+    "Liquidity Risk": {
+      "self_assessed": 1,
+      "system_calculated": 3,
+      "deviation": 2,
+      "status": "moderate",
+      "confidence": 0.97
+    },
+    "Technology Risk": {
+      "self_assessed": 3,
+      "system_calculated": 3,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.7
+    }
+  },
+  {
+    "entity": "Commercial Banking NAM",
+    "Credit Risk": {
+      "self_assessed": 4,
+      "system_calculated": 3,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.81
+    },
+    "Operational Risk": {
+      "self_assessed": 5,
+      "system_calculated": 4,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.73
+    },
+    "Compliance Risk": {
+      "self_assessed": 4,
+      "system_calculated": 5,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.9
+    },
+    "Market Risk": {
+      "self_assessed": 1,
+      "system_calculated": 1,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.72
+    },
+    "Liquidity Risk": {
+      "self_assessed": 2,
+      "system_calculated": 2,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.76
+    },
+    "Technology Risk": {
+      "self_assessed": 2,
+      "system_calculated": 5,
+      "deviation": 3,
+      "status": "significant",
+      "confidence": 0.93
+    }
+  },
+  {
+    "entity": "Digital Banking APAC",
+    "Credit Risk": {
+      "self_assessed": 4,
+      "system_calculated": 5,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.78
+    },
+    "Operational Risk": {
+      "self_assessed": 5,
+      "system_calculated": 5,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.92
+    },
+    "Compliance Risk": {
+      "self_assessed": 4,
+      "system_calculated": 4,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.84
+    },
+    "Market Risk": {
+      "self_assessed": 5,
+      "system_calculated": 5,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.99
+    },
+    "Liquidity Risk": {
+      "self_assessed": 5,
+      "system_calculated": 5,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.74
+    },
+    "Technology Risk": {
+      "self_assessed": 4,
+      "system_calculated": 3,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.74
+    }
+  },
+  {
+    "entity": "Insurance Services EMEA",
+    "Credit Risk": {
+      "self_assessed": 4,
+      "system_calculated": 5,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.77
+    },
+    "Operational Risk": {
+      "self_assessed": 2,
+      "system_calculated": 1,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.73
+    },
+    "Compliance Risk": {
+      "self_assessed": 1,
+      "system_calculated": 1,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.84
+    },
+    "Market Risk": {
+      "self_assessed": 1,
+      "system_calculated": 1,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.81
+    },
+    "Liquidity Risk": {
+      "self_assessed": 3,
+      "system_calculated": 3,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.79
+    },
+    "Technology Risk": {
+      "self_assessed": 5,
+      "system_calculated": 4,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.92
+    }
+  },
+  {
+    "entity": "Capital Markets NAM",
+    "Credit Risk": {
+      "self_assessed": 1,
+      "system_calculated": 4,
+      "deviation": 3,
+      "status": "significant",
+      "confidence": 0.9
+    },
+    "Operational Risk": {
+      "self_assessed": 2,
+      "system_calculated": 2,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.89
+    },
+    "Compliance Risk": {
+      "self_assessed": 4,
+      "system_calculated": 4,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.86
+    },
+    "Market Risk": {
+      "self_assessed": 5,
+      "system_calculated": 3,
+      "deviation": 2,
+      "status": "moderate",
+      "confidence": 0.98
+    },
+    "Liquidity Risk": {
+      "self_assessed": 1,
+      "system_calculated": 2,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.96
+    },
+    "Technology Risk": {
+      "self_assessed": 1,
+      "system_calculated": 2,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.83
+    }
+  },
+  {
+    "entity": "Structured Finance APAC",
+    "Credit Risk": {
+      "self_assessed": 4,
+      "system_calculated": 5,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.83
+    },
+    "Operational Risk": {
+      "self_assessed": 1,
+      "system_calculated": 1,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.86
+    },
+    "Compliance Risk": {
+      "self_assessed": 3,
+      "system_calculated": 3,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.84
+    },
+    "Market Risk": {
+      "self_assessed": 2,
+      "system_calculated": 2,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.91
+    },
+    "Liquidity Risk": {
+      "self_assessed": 4,
+      "system_calculated": 3,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.86
+    },
+    "Technology Risk": {
+      "self_assessed": 4,
+      "system_calculated": 5,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.84
+    }
+  },
+  {
+    "entity": "Transaction Banking LATAM",
+    "Credit Risk": {
+      "self_assessed": 2,
+      "system_calculated": 1,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.81
+    },
+    "Operational Risk": {
+      "self_assessed": 4,
+      "system_calculated": 5,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.88
+    },
+    "Compliance Risk": {
+      "self_assessed": 3,
+      "system_calculated": 3,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.79
+    },
+    "Market Risk": {
+      "self_assessed": 1,
+      "system_calculated": 1,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.74
+    },
+    "Liquidity Risk": {
+      "self_assessed": 3,
+      "system_calculated": 3,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.93
+    },
+    "Technology Risk": {
+      "self_assessed": 5,
+      "system_calculated": 3,
+      "deviation": 2,
+      "status": "moderate",
+      "confidence": 0.92
+    }
+  },
+  {
+    "entity": "Risk Advisory EMEA",
+    "Credit Risk": {
+      "self_assessed": 3,
+      "system_calculated": 4,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.73
+    },
+    "Operational Risk": {
+      "self_assessed": 3,
+      "system_calculated": 3,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.82
+    },
+    "Compliance Risk": {
+      "self_assessed": 1,
+      "system_calculated": 1,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.77
+    },
+    "Market Risk": {
+      "self_assessed": 3,
+      "system_calculated": 2,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.96
+    },
+    "Liquidity Risk": {
+      "self_assessed": 1,
+      "system_calculated": 1,
+      "deviation": 0,
+      "status": "aligned",
+      "confidence": 0.73
+    },
+    "Technology Risk": {
+      "self_assessed": 2,
+      "system_calculated": 1,
+      "deviation": 1,
+      "status": "minor",
+      "confidence": 0.86
+    }
+  }
+]

@@ -1,0 +1,6424 @@
+[
+  {
+    "id": "ENT-0001",
+    "name": "Insurance Services EMEA Unit A",
+    "business_line": "Insurance Services",
+    "region": "EMEA",
+    "entity_head": "Director Lee",
+    "employee_count": 501,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 1,
+      "Market Risk": 1,
+      "Liquidity Risk": 5,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 2,
+      "Compliance Risk": 1,
+      "Market Risk": 1,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-11-19",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0002",
+    "name": "Structured Finance EMEA Unit B",
+    "business_line": "Structured Finance",
+    "region": "EMEA",
+    "entity_head": "Director Williams",
+    "employee_count": 1180,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 2,
+      "Compliance Risk": 1,
+      "Market Risk": 3,
+      "Liquidity Risk": 3,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 2,
+      "Compliance Risk": 1,
+      "Market Risk": 4,
+      "Liquidity Risk": 1,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-11-27",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0003",
+    "name": "Digital Banking NAM Unit A",
+    "business_line": "Digital Banking",
+    "region": "NAM",
+    "entity_head": "Director Davis",
+    "employee_count": 384,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 1,
+      "Compliance Risk": 4,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 1,
+      "Compliance Risk": 4,
+      "Market Risk": 2,
+      "Liquidity Risk": 2,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-11-13",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0004",
+    "name": "Risk Advisory NAM Unit C",
+    "business_line": "Risk Advisory",
+    "region": "NAM",
+    "entity_head": "Director Chen",
+    "employee_count": 1153,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 3,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 3,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-11-24",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0005",
+    "name": "Risk Advisory LATAM Unit C",
+    "business_line": "Risk Advisory",
+    "region": "LATAM",
+    "entity_head": "Director Smith",
+    "employee_count": 1443,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 1,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 1,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-12-04",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0006",
+    "name": "Structured Finance APAC Unit A",
+    "business_line": "Structured Finance",
+    "region": "APAC",
+    "entity_head": "Director Park",
+    "employee_count": 1931,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 5,
+      "Market Risk": 1,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 5,
+      "Market Risk": 1,
+      "Liquidity Risk": 5,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-10-20",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0007",
+    "name": "Private Banking EMEA Unit A",
+    "business_line": "Private Banking",
+    "region": "EMEA",
+    "entity_head": "Director Singh",
+    "employee_count": 916,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 2,
+      "Compliance Risk": 1,
+      "Market Risk": 1,
+      "Liquidity Risk": 2,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-10-18",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0008",
+    "name": "Capital Markets APAC Unit D",
+    "business_line": "Capital Markets",
+    "region": "APAC",
+    "entity_head": "Director Anderson",
+    "employee_count": 195,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 4,
+      "Compliance Risk": 1,
+      "Market Risk": 5,
+      "Liquidity Risk": 1,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 2,
+      "Market Risk": 5,
+      "Liquidity Risk": 1,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-12-08",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0009",
+    "name": "Insurance Services LATAM Unit B",
+    "business_line": "Insurance Services",
+    "region": "LATAM",
+    "entity_head": "Director Brown",
+    "employee_count": 559,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 4,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 3,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-10-07",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0010",
+    "name": "Trade Finance LATAM Unit B",
+    "business_line": "Trade Finance",
+    "region": "LATAM",
+    "entity_head": "Director Garcia",
+    "employee_count": 826,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 4,
+      "Compliance Risk": 1,
+      "Market Risk": 1,
+      "Liquidity Risk": 2,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 4,
+      "Market Risk": 1,
+      "Liquidity Risk": 2,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-10-13",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0011",
+    "name": "Risk Advisory LATAM Unit C",
+    "business_line": "Risk Advisory",
+    "region": "LATAM",
+    "entity_head": "Director Garcia",
+    "employee_count": 166,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 4,
+      "Compliance Risk": 2,
+      "Market Risk": 5,
+      "Liquidity Risk": 1,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 4,
+      "Compliance Risk": 3,
+      "Market Risk": 5,
+      "Liquidity Risk": 3,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-12-03",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0012",
+    "name": "Corporate Lending EMEA Unit B",
+    "business_line": "Corporate Lending",
+    "region": "EMEA",
+    "entity_head": "Director Martinez",
+    "employee_count": 986,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 1,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-11-25",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0013",
+    "name": "Retail Banking LATAM Unit E",
+    "business_line": "Retail Banking",
+    "region": "LATAM",
+    "entity_head": "Director Smith",
+    "employee_count": 1417,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 5,
+      "Compliance Risk": 1,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-12-10",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0014",
+    "name": "Risk Advisory NAM Unit C",
+    "business_line": "Risk Advisory",
+    "region": "NAM",
+    "entity_head": "Director Jones",
+    "employee_count": 1354,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 1,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 3,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 3,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-11-06",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0015",
+    "name": "Commercial Banking LATAM Unit E",
+    "business_line": "Commercial Banking",
+    "region": "LATAM",
+    "entity_head": "Director Chen",
+    "employee_count": 1860,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 1,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 3,
+      "Liquidity Risk": 1,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-11-20",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0016",
+    "name": "Risk Advisory NAM Unit B",
+    "business_line": "Risk Advisory",
+    "region": "NAM",
+    "entity_head": "Director Taylor",
+    "employee_count": 675,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 2,
+      "Compliance Risk": 4,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 4,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-10-08",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0017",
+    "name": "Insurance Services NAM Unit D",
+    "business_line": "Insurance Services",
+    "region": "NAM",
+    "entity_head": "Director Taylor",
+    "employee_count": 1542,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 3,
+      "Compliance Risk": 4,
+      "Market Risk": 3,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-11-14",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0018",
+    "name": "Asset Management NAM Unit C",
+    "business_line": "Asset Management",
+    "region": "NAM",
+    "entity_head": "Director Chen",
+    "employee_count": 310,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 1,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-10-14",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0019",
+    "name": "Insurance Services NAM Unit E",
+    "business_line": "Insurance Services",
+    "region": "NAM",
+    "entity_head": "Director Anderson",
+    "employee_count": 241,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 1,
+      "Compliance Risk": 4,
+      "Market Risk": 3,
+      "Liquidity Risk": 2,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 1,
+      "Compliance Risk": 5,
+      "Market Risk": 3,
+      "Liquidity Risk": 2,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-10-22",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0020",
+    "name": "Treasury Operations NAM Unit B",
+    "business_line": "Treasury Operations",
+    "region": "NAM",
+    "entity_head": "Director Lee",
+    "employee_count": 498,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 4,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-10-26",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0021",
+    "name": "Retail Banking NAM Unit A",
+    "business_line": "Retail Banking",
+    "region": "NAM",
+    "entity_head": "Director White",
+    "employee_count": 580,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 5,
+      "Liquidity Risk": 5,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-10-27",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0022",
+    "name": "Structured Finance LATAM Unit B",
+    "business_line": "Structured Finance",
+    "region": "LATAM",
+    "entity_head": "Director Johnson",
+    "employee_count": 473,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 2,
+      "Compliance Risk": 4,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-11-13",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0023",
+    "name": "Transaction Banking LATAM Unit D",
+    "business_line": "Transaction Banking",
+    "region": "LATAM",
+    "entity_head": "Director Garcia",
+    "employee_count": 1771,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-11-05",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0024",
+    "name": "Risk Advisory LATAM Unit E",
+    "business_line": "Risk Advisory",
+    "region": "LATAM",
+    "entity_head": "Director Rodriguez",
+    "employee_count": 1759,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 4,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 5,
+      "Compliance Risk": 4,
+      "Market Risk": 3,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-10-16",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0025",
+    "name": "Capital Markets EMEA Unit C",
+    "business_line": "Capital Markets",
+    "region": "EMEA",
+    "entity_head": "Director Singh",
+    "employee_count": 1293,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 1,
+      "Compliance Risk": 1,
+      "Market Risk": 2,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 1,
+      "Compliance Risk": 1,
+      "Market Risk": 1,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-12-23",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0026",
+    "name": "Structured Finance NAM Unit C",
+    "business_line": "Structured Finance",
+    "region": "NAM",
+    "entity_head": "Director Johnson",
+    "employee_count": 761,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 4,
+      "Market Risk": 1,
+      "Liquidity Risk": 1,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 4,
+      "Market Risk": 1,
+      "Liquidity Risk": 1,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-12-14",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0027",
+    "name": "Corporate Lending APAC Unit A",
+    "business_line": "Corporate Lending",
+    "region": "APAC",
+    "entity_head": "Director Williams",
+    "employee_count": 621,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 4,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 4,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-11-08",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0028",
+    "name": "Digital Banking LATAM Unit C",
+    "business_line": "Digital Banking",
+    "region": "LATAM",
+    "entity_head": "Director Kim",
+    "employee_count": 1372,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 3,
+      "Market Risk": 3,
+      "Liquidity Risk": 2,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 4,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-12-16",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0029",
+    "name": "Structured Finance EMEA Unit A",
+    "business_line": "Structured Finance",
+    "region": "EMEA",
+    "entity_head": "Director Brown",
+    "employee_count": 1527,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 3,
+      "Compliance Risk": 4,
+      "Market Risk": 4,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-10-11",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0030",
+    "name": "Capital Markets NAM Unit B",
+    "business_line": "Capital Markets",
+    "region": "NAM",
+    "entity_head": "Director Chen",
+    "employee_count": 648,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 2,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 4,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-12-05",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0031",
+    "name": "Corporate Lending EMEA Unit E",
+    "business_line": "Corporate Lending",
+    "region": "EMEA",
+    "entity_head": "Director Martinez",
+    "employee_count": 224,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 1,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 2,
+      "Compliance Risk": 3,
+      "Market Risk": 1,
+      "Liquidity Risk": 2,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-10-04",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0032",
+    "name": "Digital Banking NAM Unit E",
+    "business_line": "Digital Banking",
+    "region": "NAM",
+    "entity_head": "Director Chen",
+    "employee_count": 203,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 2,
+      "Market Risk": 4,
+      "Liquidity Risk": 2,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-10-01",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0033",
+    "name": "Private Banking LATAM Unit C",
+    "business_line": "Private Banking",
+    "region": "LATAM",
+    "entity_head": "Director Martinez",
+    "employee_count": 1268,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 4,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 2,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 3,
+      "Compliance Risk": 4,
+      "Market Risk": 3,
+      "Liquidity Risk": 2,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-12-27",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0034",
+    "name": "Private Banking EMEA Unit D",
+    "business_line": "Private Banking",
+    "region": "EMEA",
+    "entity_head": "Director Wang",
+    "employee_count": 132,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 1,
+      "Market Risk": 3,
+      "Liquidity Risk": 1,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 1,
+      "Market Risk": 2,
+      "Liquidity Risk": 2,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-10-16",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0035",
+    "name": "Risk Advisory APAC Unit B",
+    "business_line": "Risk Advisory",
+    "region": "APAC",
+    "entity_head": "Director Anderson",
+    "employee_count": 566,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 1,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 1,
+      "Compliance Risk": 2,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-11-04",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0036",
+    "name": "Transaction Banking EMEA Unit E",
+    "business_line": "Transaction Banking",
+    "region": "EMEA",
+    "entity_head": "Director Davis",
+    "employee_count": 1503,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 5,
+      "Compliance Risk": 4,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 5,
+      "Compliance Risk": 4,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-10-10",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0037",
+    "name": "Commercial Banking LATAM Unit A",
+    "business_line": "Commercial Banking",
+    "region": "LATAM",
+    "entity_head": "Director Miller",
+    "employee_count": 1937,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 4,
+      "Compliance Risk": 2,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-12-17",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0038",
+    "name": "Transaction Banking EMEA Unit C",
+    "business_line": "Transaction Banking",
+    "region": "EMEA",
+    "entity_head": "Director White",
+    "employee_count": 1960,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 3,
+      "Compliance Risk": 4,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-11-28",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0039",
+    "name": "Capital Markets NAM Unit E",
+    "business_line": "Capital Markets",
+    "region": "NAM",
+    "entity_head": "Director Brown",
+    "employee_count": 1127,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 1,
+      "Compliance Risk": 4,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 1,
+      "Compliance Risk": 4,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-11-01",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0040",
+    "name": "Asset Management NAM Unit A",
+    "business_line": "Asset Management",
+    "region": "NAM",
+    "entity_head": "Director Davis",
+    "employee_count": 1579,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 1,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 2,
+      "Market Risk": 4,
+      "Liquidity Risk": 3,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-10-14",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0041",
+    "name": "Structured Finance EMEA Unit D",
+    "business_line": "Structured Finance",
+    "region": "EMEA",
+    "entity_head": "Director Thomas",
+    "employee_count": 1319,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 1,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 5,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 1,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-12-08",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0042",
+    "name": "Risk Advisory NAM Unit B",
+    "business_line": "Risk Advisory",
+    "region": "NAM",
+    "entity_head": "Director Miller",
+    "employee_count": 837,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 1,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 1,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-11-04",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0043",
+    "name": "Asset Management APAC Unit E",
+    "business_line": "Asset Management",
+    "region": "APAC",
+    "entity_head": "Director Rodriguez",
+    "employee_count": 1438,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 3,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 1,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-12-25",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0044",
+    "name": "Insurance Services EMEA Unit A",
+    "business_line": "Insurance Services",
+    "region": "EMEA",
+    "entity_head": "Director Garcia",
+    "employee_count": 576,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 1,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 1,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-11-26",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0045",
+    "name": "Capital Markets APAC Unit A",
+    "business_line": "Capital Markets",
+    "region": "APAC",
+    "entity_head": "Director Brown",
+    "employee_count": 1432,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 1,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 1,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-10-16",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0046",
+    "name": "Digital Banking APAC Unit E",
+    "business_line": "Digital Banking",
+    "region": "APAC",
+    "entity_head": "Director Chen",
+    "employee_count": 908,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 3,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 1,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 2,
+      "Compliance Risk": 1,
+      "Market Risk": 2,
+      "Liquidity Risk": 2,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-12-24",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0047",
+    "name": "Risk Advisory LATAM Unit A",
+    "business_line": "Risk Advisory",
+    "region": "LATAM",
+    "entity_head": "Director Brown",
+    "employee_count": 1993,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 1,
+      "Compliance Risk": 4,
+      "Market Risk": 3,
+      "Liquidity Risk": 5,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 1,
+      "Compliance Risk": 4,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-11-03",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0048",
+    "name": "Insurance Services EMEA Unit A",
+    "business_line": "Insurance Services",
+    "region": "EMEA",
+    "entity_head": "Director Brown",
+    "employee_count": 1403,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 1,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 4,
+      "Liquidity Risk": 1,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-10-05",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0049",
+    "name": "Investment Banking NAM Unit E",
+    "business_line": "Investment Banking",
+    "region": "NAM",
+    "entity_head": "Director Johnson",
+    "employee_count": 1539,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 5,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-12-17",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0050",
+    "name": "Private Banking EMEA Unit A",
+    "business_line": "Private Banking",
+    "region": "EMEA",
+    "entity_head": "Director Singh",
+    "employee_count": 1136,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 1,
+      "Compliance Risk": 1,
+      "Market Risk": 5,
+      "Liquidity Risk": 3,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 1,
+      "Compliance Risk": 1,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-11-15",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0051",
+    "name": "Corporate Lending EMEA Unit E",
+    "business_line": "Corporate Lending",
+    "region": "EMEA",
+    "entity_head": "Director Williams",
+    "employee_count": 934,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 3,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 3,
+      "Market Risk": 3,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-10-24",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0052",
+    "name": "Structured Finance NAM Unit E",
+    "business_line": "Structured Finance",
+    "region": "NAM",
+    "entity_head": "Director Davis",
+    "employee_count": 1785,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 4,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-10-12",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0053",
+    "name": "Corporate Lending APAC Unit E",
+    "business_line": "Corporate Lending",
+    "region": "APAC",
+    "entity_head": "Director Williams",
+    "employee_count": 340,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 1,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 1,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-12-21",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0054",
+    "name": "Corporate Lending NAM Unit D",
+    "business_line": "Corporate Lending",
+    "region": "NAM",
+    "entity_head": "Director Singh",
+    "employee_count": 955,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 1,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 4,
+      "Market Risk": 3,
+      "Liquidity Risk": 1,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-11-09",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0055",
+    "name": "Structured Finance EMEA Unit C",
+    "business_line": "Structured Finance",
+    "region": "EMEA",
+    "entity_head": "Director Kim",
+    "employee_count": 1579,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 4,
+      "Compliance Risk": 1,
+      "Market Risk": 1,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 4,
+      "Compliance Risk": 2,
+      "Market Risk": 2,
+      "Liquidity Risk": 2,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-11-06",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0056",
+    "name": "Asset Management NAM Unit E",
+    "business_line": "Asset Management",
+    "region": "NAM",
+    "entity_head": "Director Anderson",
+    "employee_count": 401,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 1,
+      "Compliance Risk": 4,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 1,
+      "Compliance Risk": 2,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-12-15",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0057",
+    "name": "Corporate Lending LATAM Unit A",
+    "business_line": "Corporate Lending",
+    "region": "LATAM",
+    "entity_head": "Director Davis",
+    "employee_count": 260,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 1,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 1,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-10-09",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0058",
+    "name": "Trade Finance NAM Unit A",
+    "business_line": "Trade Finance",
+    "region": "NAM",
+    "entity_head": "Director Wang",
+    "employee_count": 165,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-11-17",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0059",
+    "name": "Wealth Management LATAM Unit D",
+    "business_line": "Wealth Management",
+    "region": "LATAM",
+    "entity_head": "Director Park",
+    "employee_count": 358,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 1,
+      "Compliance Risk": 5,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 1,
+      "Compliance Risk": 5,
+      "Market Risk": 3,
+      "Liquidity Risk": 5,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-10-15",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0060",
+    "name": "Structured Finance APAC Unit A",
+    "business_line": "Structured Finance",
+    "region": "APAC",
+    "entity_head": "Director Williams",
+    "employee_count": 725,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-10-18",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0061",
+    "name": "Wealth Management APAC Unit E",
+    "business_line": "Wealth Management",
+    "region": "APAC",
+    "entity_head": "Director Park",
+    "employee_count": 791,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 2,
+      "Compliance Risk": 4,
+      "Market Risk": 3,
+      "Liquidity Risk": 2,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 2,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-10-12",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0062",
+    "name": "Trade Finance NAM Unit C",
+    "business_line": "Trade Finance",
+    "region": "NAM",
+    "entity_head": "Director Garcia",
+    "employee_count": 1526,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 1,
+      "Liquidity Risk": 2,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 1,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-11-02",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0063",
+    "name": "Investment Banking NAM Unit D",
+    "business_line": "Investment Banking",
+    "region": "NAM",
+    "entity_head": "Director Garcia",
+    "employee_count": 1722,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 2,
+      "Compliance Risk": 4,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 2,
+      "Compliance Risk": 4,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-10-26",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0064",
+    "name": "Transaction Banking APAC Unit A",
+    "business_line": "Transaction Banking",
+    "region": "APAC",
+    "entity_head": "Director Smith",
+    "employee_count": 899,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 1,
+      "Compliance Risk": 1,
+      "Market Risk": 3,
+      "Liquidity Risk": 2,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 2,
+      "Compliance Risk": 1,
+      "Market Risk": 4,
+      "Liquidity Risk": 1,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-10-13",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0065",
+    "name": "Treasury Operations LATAM Unit A",
+    "business_line": "Treasury Operations",
+    "region": "LATAM",
+    "entity_head": "Director Jones",
+    "employee_count": 1173,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 2,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-12-20",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0066",
+    "name": "Corporate Lending APAC Unit B",
+    "business_line": "Corporate Lending",
+    "region": "APAC",
+    "entity_head": "Director Taylor",
+    "employee_count": 542,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 5,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-12-14",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0067",
+    "name": "Insurance Services EMEA Unit E",
+    "business_line": "Insurance Services",
+    "region": "EMEA",
+    "entity_head": "Director Wang",
+    "employee_count": 1555,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-11-05",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0068",
+    "name": "Investment Banking APAC Unit B",
+    "business_line": "Investment Banking",
+    "region": "APAC",
+    "entity_head": "Director Kim",
+    "employee_count": 568,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 2,
+      "Compliance Risk": 4,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 1,
+      "Compliance Risk": 3,
+      "Market Risk": 1,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-10-25",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0069",
+    "name": "Wealth Management APAC Unit A",
+    "business_line": "Wealth Management",
+    "region": "APAC",
+    "entity_head": "Director Garcia",
+    "employee_count": 1167,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-11-11",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0070",
+    "name": "Corporate Lending APAC Unit C",
+    "business_line": "Corporate Lending",
+    "region": "APAC",
+    "entity_head": "Director Smith",
+    "employee_count": 342,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 2,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 1,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-12-22",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0071",
+    "name": "Retail Banking NAM Unit A",
+    "business_line": "Retail Banking",
+    "region": "NAM",
+    "entity_head": "Director Davis",
+    "employee_count": 282,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 3,
+      "Compliance Risk": 1,
+      "Market Risk": 3,
+      "Liquidity Risk": 5,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 1,
+      "Market Risk": 2,
+      "Liquidity Risk": 5,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-10-24",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0072",
+    "name": "Private Banking LATAM Unit E",
+    "business_line": "Private Banking",
+    "region": "LATAM",
+    "entity_head": "Director Taylor",
+    "employee_count": 1503,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 4,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 1,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-10-18",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0073",
+    "name": "Risk Advisory APAC Unit B",
+    "business_line": "Risk Advisory",
+    "region": "APAC",
+    "entity_head": "Director Williams",
+    "employee_count": 683,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 2,
+      "Compliance Risk": 2,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 2,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-11-23",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0074",
+    "name": "Commercial Banking LATAM Unit D",
+    "business_line": "Commercial Banking",
+    "region": "LATAM",
+    "entity_head": "Director Garcia",
+    "employee_count": 381,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 1,
+      "Compliance Risk": 3,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-11-23",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0075",
+    "name": "Investment Banking APAC Unit A",
+    "business_line": "Investment Banking",
+    "region": "APAC",
+    "entity_head": "Director Johnson",
+    "employee_count": 1740,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 3,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 2,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 3,
+      "Liquidity Risk": 3,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-10-03",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0076",
+    "name": "Insurance Services APAC Unit B",
+    "business_line": "Insurance Services",
+    "region": "APAC",
+    "entity_head": "Director White",
+    "employee_count": 467,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 4,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 3,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 2,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-11-20",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0077",
+    "name": "Investment Banking APAC Unit C",
+    "business_line": "Investment Banking",
+    "region": "APAC",
+    "entity_head": "Director Anderson",
+    "employee_count": 1962,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 4,
+      "Liquidity Risk": 1,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 1,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-12-24",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0078",
+    "name": "Treasury Operations NAM Unit D",
+    "business_line": "Treasury Operations",
+    "region": "NAM",
+    "entity_head": "Director Brown",
+    "employee_count": 932,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 1,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 1,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-10-09",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0079",
+    "name": "Structured Finance LATAM Unit C",
+    "business_line": "Structured Finance",
+    "region": "LATAM",
+    "entity_head": "Director Taylor",
+    "employee_count": 1677,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-11-18",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0080",
+    "name": "Structured Finance NAM Unit B",
+    "business_line": "Structured Finance",
+    "region": "NAM",
+    "entity_head": "Director Martinez",
+    "employee_count": 1265,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 1,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 1,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 3,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-11-17",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0081",
+    "name": "Capital Markets APAC Unit D",
+    "business_line": "Capital Markets",
+    "region": "APAC",
+    "entity_head": "Director Jones",
+    "employee_count": 1732,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 5,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 3,
+      "Compliance Risk": 5,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-12-08",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0082",
+    "name": "Digital Banking EMEA Unit B",
+    "business_line": "Digital Banking",
+    "region": "EMEA",
+    "entity_head": "Director Park",
+    "employee_count": 821,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 4,
+      "Market Risk": 4,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 3,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-11-06",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0083",
+    "name": "Risk Advisory APAC Unit E",
+    "business_line": "Risk Advisory",
+    "region": "APAC",
+    "entity_head": "Director Martinez",
+    "employee_count": 299,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-12-22",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0084",
+    "name": "Risk Advisory LATAM Unit C",
+    "business_line": "Risk Advisory",
+    "region": "LATAM",
+    "entity_head": "Director Davis",
+    "employee_count": 546,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 1,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 5,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 1,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 5,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-10-22",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0085",
+    "name": "Insurance Services NAM Unit A",
+    "business_line": "Insurance Services",
+    "region": "NAM",
+    "entity_head": "Director Williams",
+    "employee_count": 1385,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 1,
+      "Compliance Risk": 1,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 1,
+      "Compliance Risk": 1,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-12-08",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0086",
+    "name": "Risk Advisory NAM Unit D",
+    "business_line": "Risk Advisory",
+    "region": "NAM",
+    "entity_head": "Director Park",
+    "employee_count": 1008,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 3,
+      "Market Risk": 3,
+      "Liquidity Risk": 3,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 4,
+      "Compliance Risk": 2,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-11-07",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0087",
+    "name": "Investment Banking NAM Unit D",
+    "business_line": "Investment Banking",
+    "region": "NAM",
+    "entity_head": "Director Smith",
+    "employee_count": 584,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 3,
+      "Compliance Risk": 2,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-11-08",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0088",
+    "name": "Structured Finance APAC Unit C",
+    "business_line": "Structured Finance",
+    "region": "APAC",
+    "entity_head": "Director Taylor",
+    "employee_count": 1308,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 2,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 1,
+      "Compliance Risk": 1,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-10-08",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0089",
+    "name": "Private Banking NAM Unit D",
+    "business_line": "Private Banking",
+    "region": "NAM",
+    "entity_head": "Director Park",
+    "employee_count": 464,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 4,
+      "Compliance Risk": 2,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 4,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 5,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-12-18",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0090",
+    "name": "Trade Finance APAC Unit E",
+    "business_line": "Trade Finance",
+    "region": "APAC",
+    "entity_head": "Director Rodriguez",
+    "employee_count": 1722,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 5,
+      "Compliance Risk": 4,
+      "Market Risk": 2,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 4,
+      "Market Risk": 2,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-10-24",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0091",
+    "name": "Digital Banking EMEA Unit A",
+    "business_line": "Digital Banking",
+    "region": "EMEA",
+    "entity_head": "Director Thomas",
+    "employee_count": 214,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 5,
+      "Compliance Risk": 4,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-12-22",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0092",
+    "name": "Insurance Services APAC Unit A",
+    "business_line": "Insurance Services",
+    "region": "APAC",
+    "entity_head": "Director Rodriguez",
+    "employee_count": 436,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 1,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 1,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-12-25",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0093",
+    "name": "Retail Banking LATAM Unit E",
+    "business_line": "Retail Banking",
+    "region": "LATAM",
+    "entity_head": "Director Davis",
+    "employee_count": 1720,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 1,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 1,
+      "Compliance Risk": 4,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-12-19",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0094",
+    "name": "Digital Banking APAC Unit B",
+    "business_line": "Digital Banking",
+    "region": "APAC",
+    "entity_head": "Director Lee",
+    "employee_count": 886,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 2,
+      "Compliance Risk": 1,
+      "Market Risk": 2,
+      "Liquidity Risk": 5,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 2,
+      "Compliance Risk": 2,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-10-10",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0095",
+    "name": "Trade Finance LATAM Unit B",
+    "business_line": "Trade Finance",
+    "region": "LATAM",
+    "entity_head": "Director Chen",
+    "employee_count": 1533,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 3,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 4,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-10-02",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0096",
+    "name": "Asset Management EMEA Unit A",
+    "business_line": "Asset Management",
+    "region": "EMEA",
+    "entity_head": "Director Chen",
+    "employee_count": 708,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 1,
+      "Liquidity Risk": 5,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-11-13",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0097",
+    "name": "Commercial Banking APAC Unit C",
+    "business_line": "Commercial Banking",
+    "region": "APAC",
+    "entity_head": "Director Wang",
+    "employee_count": 1524,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 4,
+      "Compliance Risk": 3,
+      "Market Risk": 3,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 1,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-11-10",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0098",
+    "name": "Treasury Operations APAC Unit B",
+    "business_line": "Treasury Operations",
+    "region": "APAC",
+    "entity_head": "Director Johnson",
+    "employee_count": 1123,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 4,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 2,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 4,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-10-27",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0099",
+    "name": "Transaction Banking EMEA Unit A",
+    "business_line": "Transaction Banking",
+    "region": "EMEA",
+    "entity_head": "Director Smith",
+    "employee_count": 84,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 1,
+      "Compliance Risk": 2,
+      "Market Risk": 1,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 1,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-12-24",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0100",
+    "name": "Commercial Banking APAC Unit A",
+    "business_line": "Commercial Banking",
+    "region": "APAC",
+    "entity_head": "Director Wang",
+    "employee_count": 548,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 1,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-12-08",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0101",
+    "name": "Insurance Services EMEA Unit A",
+    "business_line": "Insurance Services",
+    "region": "EMEA",
+    "entity_head": "Director Kim",
+    "employee_count": 605,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 5,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 2,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-10-03",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0102",
+    "name": "Risk Advisory EMEA Unit B",
+    "business_line": "Risk Advisory",
+    "region": "EMEA",
+    "entity_head": "Director Johnson",
+    "employee_count": 250,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 1,
+      "Market Risk": 2,
+      "Liquidity Risk": 5,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 2,
+      "Liquidity Risk": 5,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-11-08",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0103",
+    "name": "Investment Banking LATAM Unit C",
+    "business_line": "Investment Banking",
+    "region": "LATAM",
+    "entity_head": "Director Jones",
+    "employee_count": 1564,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 4,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-11-11",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0104",
+    "name": "Corporate Lending EMEA Unit A",
+    "business_line": "Corporate Lending",
+    "region": "EMEA",
+    "entity_head": "Director Thomas",
+    "employee_count": 75,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 1,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 5,
+      "Market Risk": 4,
+      "Liquidity Risk": 1,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-11-14",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0105",
+    "name": "Structured Finance EMEA Unit E",
+    "business_line": "Structured Finance",
+    "region": "EMEA",
+    "entity_head": "Director Kim",
+    "employee_count": 1266,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 3,
+      "Market Risk": 1,
+      "Liquidity Risk": 4,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 3,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-12-07",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0106",
+    "name": "Corporate Lending NAM Unit C",
+    "business_line": "Corporate Lending",
+    "region": "NAM",
+    "entity_head": "Director Kim",
+    "employee_count": 1229,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 4,
+      "Market Risk": 2,
+      "Liquidity Risk": 2,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-10-11",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0107",
+    "name": "Wealth Management LATAM Unit C",
+    "business_line": "Wealth Management",
+    "region": "LATAM",
+    "entity_head": "Director Davis",
+    "employee_count": 567,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 1,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 1,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-12-05",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0108",
+    "name": "Structured Finance LATAM Unit A",
+    "business_line": "Structured Finance",
+    "region": "LATAM",
+    "entity_head": "Director Wang",
+    "employee_count": 1371,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 5,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 1,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 5,
+      "Compliance Risk": 4,
+      "Market Risk": 4,
+      "Liquidity Risk": 1,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-12-21",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0109",
+    "name": "Structured Finance APAC Unit D",
+    "business_line": "Structured Finance",
+    "region": "APAC",
+    "entity_head": "Director Kim",
+    "employee_count": 264,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 3,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-11-14",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0110",
+    "name": "Corporate Lending NAM Unit C",
+    "business_line": "Corporate Lending",
+    "region": "NAM",
+    "entity_head": "Director Davis",
+    "employee_count": 1106,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 1,
+      "Market Risk": 3,
+      "Liquidity Risk": 1,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 1,
+      "Market Risk": 1,
+      "Liquidity Risk": 2,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-10-18",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0111",
+    "name": "Investment Banking LATAM Unit D",
+    "business_line": "Investment Banking",
+    "region": "LATAM",
+    "entity_head": "Director Wang",
+    "employee_count": 258,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 2,
+      "Compliance Risk": 4,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-12-06",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0112",
+    "name": "Investment Banking NAM Unit D",
+    "business_line": "Investment Banking",
+    "region": "NAM",
+    "entity_head": "Director Anderson",
+    "employee_count": 291,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-10-10",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0113",
+    "name": "Trade Finance APAC Unit B",
+    "business_line": "Trade Finance",
+    "region": "APAC",
+    "entity_head": "Director Smith",
+    "employee_count": 1042,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 2,
+      "Compliance Risk": 2,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 2,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-10-07",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0114",
+    "name": "Commercial Banking LATAM Unit D",
+    "business_line": "Commercial Banking",
+    "region": "LATAM",
+    "entity_head": "Director Chen",
+    "employee_count": 1096,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 4,
+      "Compliance Risk": 1,
+      "Market Risk": 3,
+      "Liquidity Risk": 5,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 5,
+      "Compliance Risk": 1,
+      "Market Risk": 2,
+      "Liquidity Risk": 5,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-10-19",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0115",
+    "name": "Wealth Management APAC Unit E",
+    "business_line": "Wealth Management",
+    "region": "APAC",
+    "entity_head": "Director Davis",
+    "employee_count": 479,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 1,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 1,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-12-19",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0116",
+    "name": "Transaction Banking LATAM Unit B",
+    "business_line": "Transaction Banking",
+    "region": "LATAM",
+    "entity_head": "Director Johnson",
+    "employee_count": 617,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 2,
+      "Compliance Risk": 3,
+      "Market Risk": 5,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 3,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-12-05",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0117",
+    "name": "Treasury Operations NAM Unit C",
+    "business_line": "Treasury Operations",
+    "region": "NAM",
+    "entity_head": "Director White",
+    "employee_count": 1350,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-12-23",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0118",
+    "name": "Transaction Banking EMEA Unit E",
+    "business_line": "Transaction Banking",
+    "region": "EMEA",
+    "entity_head": "Director Smith",
+    "employee_count": 304,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 2,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 2,
+      "Compliance Risk": 4,
+      "Market Risk": 2,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-10-15",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0119",
+    "name": "Retail Banking LATAM Unit B",
+    "business_line": "Retail Banking",
+    "region": "LATAM",
+    "entity_head": "Director Brown",
+    "employee_count": 52,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 2,
+      "Compliance Risk": 1,
+      "Market Risk": 1,
+      "Liquidity Risk": 1,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 2,
+      "Compliance Risk": 1,
+      "Market Risk": 1,
+      "Liquidity Risk": 1,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-10-16",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0120",
+    "name": "Trade Finance NAM Unit E",
+    "business_line": "Trade Finance",
+    "region": "NAM",
+    "entity_head": "Director Jones",
+    "employee_count": 190,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 1,
+      "Compliance Risk": 2,
+      "Market Risk": 4,
+      "Liquidity Risk": 1,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 1,
+      "Compliance Risk": 2,
+      "Market Risk": 2,
+      "Liquidity Risk": 1,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-12-19",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0121",
+    "name": "Digital Banking NAM Unit D",
+    "business_line": "Digital Banking",
+    "region": "NAM",
+    "entity_head": "Director Rodriguez",
+    "employee_count": 1370,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 4,
+      "Compliance Risk": 2,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 4,
+      "Compliance Risk": 1,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-10-08",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0122",
+    "name": "Structured Finance EMEA Unit C",
+    "business_line": "Structured Finance",
+    "region": "EMEA",
+    "entity_head": "Director Taylor",
+    "employee_count": 1962,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 2,
+      "Compliance Risk": 1,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 2,
+      "Compliance Risk": 1,
+      "Market Risk": 4,
+      "Liquidity Risk": 3,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-11-05",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0123",
+    "name": "Transaction Banking LATAM Unit C",
+    "business_line": "Transaction Banking",
+    "region": "LATAM",
+    "entity_head": "Director Williams",
+    "employee_count": 1361,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 1,
+      "Compliance Risk": 1,
+      "Market Risk": 1,
+      "Liquidity Risk": 5,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 1,
+      "Compliance Risk": 1,
+      "Market Risk": 1,
+      "Liquidity Risk": 5,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-12-18",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0124",
+    "name": "Wealth Management EMEA Unit C",
+    "business_line": "Wealth Management",
+    "region": "EMEA",
+    "entity_head": "Director Johnson",
+    "employee_count": 683,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 3,
+      "Liquidity Risk": 1,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 4,
+      "Market Risk": 1,
+      "Liquidity Risk": 1,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-12-24",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0125",
+    "name": "Corporate Lending EMEA Unit B",
+    "business_line": "Corporate Lending",
+    "region": "EMEA",
+    "entity_head": "Director Williams",
+    "employee_count": 1066,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-11-17",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0126",
+    "name": "Retail Banking LATAM Unit E",
+    "business_line": "Retail Banking",
+    "region": "LATAM",
+    "entity_head": "Director Johnson",
+    "employee_count": 1182,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 1,
+      "Compliance Risk": 2,
+      "Market Risk": 1,
+      "Liquidity Risk": 2,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 1,
+      "Compliance Risk": 1,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-12-24",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0127",
+    "name": "Treasury Operations APAC Unit B",
+    "business_line": "Treasury Operations",
+    "region": "APAC",
+    "entity_head": "Director Anderson",
+    "employee_count": 226,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 1,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 4,
+      "Compliance Risk": 1,
+      "Market Risk": 3,
+      "Liquidity Risk": 1,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-12-15",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0128",
+    "name": "Investment Banking NAM Unit C",
+    "business_line": "Investment Banking",
+    "region": "NAM",
+    "entity_head": "Director Smith",
+    "employee_count": 1997,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 2,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 3,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-11-01",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0129",
+    "name": "Transaction Banking APAC Unit A",
+    "business_line": "Transaction Banking",
+    "region": "APAC",
+    "entity_head": "Director Wang",
+    "employee_count": 245,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 2,
+      "Market Risk": 1,
+      "Liquidity Risk": 4,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 3,
+      "Compliance Risk": 1,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-12-05",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0130",
+    "name": "Corporate Lending EMEA Unit D",
+    "business_line": "Corporate Lending",
+    "region": "EMEA",
+    "entity_head": "Director White",
+    "employee_count": 1004,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 2,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-11-14",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0131",
+    "name": "Commercial Banking APAC Unit B",
+    "business_line": "Commercial Banking",
+    "region": "APAC",
+    "entity_head": "Director Smith",
+    "employee_count": 1999,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 1,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 1,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-11-28",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0132",
+    "name": "Commercial Banking NAM Unit A",
+    "business_line": "Commercial Banking",
+    "region": "NAM",
+    "entity_head": "Director White",
+    "employee_count": 1707,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 1,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 5,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 2,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-10-03",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0133",
+    "name": "Corporate Lending EMEA Unit D",
+    "business_line": "Corporate Lending",
+    "region": "EMEA",
+    "entity_head": "Director Davis",
+    "employee_count": 1375,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-11-16",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0134",
+    "name": "Risk Advisory LATAM Unit A",
+    "business_line": "Risk Advisory",
+    "region": "LATAM",
+    "entity_head": "Director Anderson",
+    "employee_count": 845,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 4,
+      "Compliance Risk": 2,
+      "Market Risk": 1,
+      "Liquidity Risk": 4,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 1,
+      "Liquidity Risk": 4,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-11-06",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0135",
+    "name": "Investment Banking NAM Unit A",
+    "business_line": "Investment Banking",
+    "region": "NAM",
+    "entity_head": "Director Taylor",
+    "employee_count": 1965,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 2,
+      "Liquidity Risk": 5,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 1,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-10-06",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0136",
+    "name": "Digital Banking APAC Unit C",
+    "business_line": "Digital Banking",
+    "region": "APAC",
+    "entity_head": "Director Kim",
+    "employee_count": 51,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 5,
+      "Liquidity Risk": 1,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 5,
+      "Liquidity Risk": 1,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-11-20",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0137",
+    "name": "Structured Finance NAM Unit C",
+    "business_line": "Structured Finance",
+    "region": "NAM",
+    "entity_head": "Director Lee",
+    "employee_count": 1671,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 1,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 3,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-12-16",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0138",
+    "name": "Trade Finance APAC Unit B",
+    "business_line": "Trade Finance",
+    "region": "APAC",
+    "entity_head": "Director Brown",
+    "employee_count": 1968,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 3,
+      "Compliance Risk": 2,
+      "Market Risk": 5,
+      "Liquidity Risk": 1,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 3,
+      "Compliance Risk": 1,
+      "Market Risk": 5,
+      "Liquidity Risk": 1,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-11-05",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0139",
+    "name": "Capital Markets EMEA Unit B",
+    "business_line": "Capital Markets",
+    "region": "EMEA",
+    "entity_head": "Director Garcia",
+    "employee_count": 1861,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 4,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 2,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-11-16",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0140",
+    "name": "Investment Banking LATAM Unit A",
+    "business_line": "Investment Banking",
+    "region": "LATAM",
+    "entity_head": "Director Williams",
+    "employee_count": 742,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 2,
+      "Compliance Risk": 1,
+      "Market Risk": 3,
+      "Liquidity Risk": 3,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 1,
+      "Compliance Risk": 1,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-12-20",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0141",
+    "name": "Capital Markets EMEA Unit D",
+    "business_line": "Capital Markets",
+    "region": "EMEA",
+    "entity_head": "Director Wang",
+    "employee_count": 1175,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 2,
+      "Compliance Risk": 2,
+      "Market Risk": 5,
+      "Liquidity Risk": 3,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 3,
+      "Compliance Risk": 2,
+      "Market Risk": 5,
+      "Liquidity Risk": 3,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-11-05",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0142",
+    "name": "Investment Banking EMEA Unit D",
+    "business_line": "Investment Banking",
+    "region": "EMEA",
+    "entity_head": "Director Williams",
+    "employee_count": 1364,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 4,
+      "Compliance Risk": 2,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 3,
+      "Compliance Risk": 1,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-12-13",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0143",
+    "name": "Investment Banking LATAM Unit C",
+    "business_line": "Investment Banking",
+    "region": "LATAM",
+    "entity_head": "Director Park",
+    "employee_count": 907,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 3,
+      "Market Risk": 1,
+      "Liquidity Risk": 5,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 5,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-12-22",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0144",
+    "name": "Digital Banking NAM Unit D",
+    "business_line": "Digital Banking",
+    "region": "NAM",
+    "entity_head": "Director Johnson",
+    "employee_count": 917,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 2,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 4,
+      "Liquidity Risk": 2,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-10-22",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0145",
+    "name": "Treasury Operations NAM Unit E",
+    "business_line": "Treasury Operations",
+    "region": "NAM",
+    "entity_head": "Director Wang",
+    "employee_count": 1254,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 5,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 1,
+      "Compliance Risk": 5,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-12-25",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0146",
+    "name": "Risk Advisory EMEA Unit E",
+    "business_line": "Risk Advisory",
+    "region": "EMEA",
+    "entity_head": "Director Johnson",
+    "employee_count": 860,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 3,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 3,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 3,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-11-23",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0147",
+    "name": "Retail Banking LATAM Unit C",
+    "business_line": "Retail Banking",
+    "region": "LATAM",
+    "entity_head": "Director White",
+    "employee_count": 482,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 3,
+      "Compliance Risk": 1,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 1,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-11-24",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0148",
+    "name": "Structured Finance APAC Unit A",
+    "business_line": "Structured Finance",
+    "region": "APAC",
+    "entity_head": "Director Miller",
+    "employee_count": 611,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 3,
+      "Compliance Risk": 2,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 1,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 2,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-11-27",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0149",
+    "name": "Commercial Banking LATAM Unit A",
+    "business_line": "Commercial Banking",
+    "region": "LATAM",
+    "entity_head": "Director Miller",
+    "employee_count": 1805,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 1,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 1,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-10-21",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0150",
+    "name": "Insurance Services NAM Unit C",
+    "business_line": "Insurance Services",
+    "region": "NAM",
+    "entity_head": "Director White",
+    "employee_count": 668,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 3,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 3,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-12-17",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0151",
+    "name": "Digital Banking EMEA Unit A",
+    "business_line": "Digital Banking",
+    "region": "EMEA",
+    "entity_head": "Director Davis",
+    "employee_count": 1892,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 5,
+      "Liquidity Risk": 3,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-10-26",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0152",
+    "name": "Insurance Services APAC Unit B",
+    "business_line": "Insurance Services",
+    "region": "APAC",
+    "entity_head": "Director Chen",
+    "employee_count": 420,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 3,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 3,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-11-04",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0153",
+    "name": "Trade Finance APAC Unit E",
+    "business_line": "Trade Finance",
+    "region": "APAC",
+    "entity_head": "Director Wang",
+    "employee_count": 1983,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 1,
+      "Compliance Risk": 3,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 1,
+      "Compliance Risk": 3,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-12-03",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0154",
+    "name": "Risk Advisory NAM Unit E",
+    "business_line": "Risk Advisory",
+    "region": "NAM",
+    "entity_head": "Director Anderson",
+    "employee_count": 1349,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 4,
+      "Compliance Risk": 1,
+      "Market Risk": 4,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-10-01",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0155",
+    "name": "Wealth Management NAM Unit B",
+    "business_line": "Wealth Management",
+    "region": "NAM",
+    "entity_head": "Director Miller",
+    "employee_count": 86,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 1,
+      "Compliance Risk": 4,
+      "Market Risk": 4,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 3,
+      "Compliance Risk": 2,
+      "Market Risk": 5,
+      "Liquidity Risk": 1,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-12-01",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0156",
+    "name": "Treasury Operations APAC Unit C",
+    "business_line": "Treasury Operations",
+    "region": "APAC",
+    "entity_head": "Director Taylor",
+    "employee_count": 1586,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 1,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 4,
+      "Compliance Risk": 1,
+      "Market Risk": 5,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-10-06",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0157",
+    "name": "Retail Banking NAM Unit B",
+    "business_line": "Retail Banking",
+    "region": "NAM",
+    "entity_head": "Director Johnson",
+    "employee_count": 1462,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 4,
+      "Compliance Risk": 2,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-10-14",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0158",
+    "name": "Asset Management EMEA Unit E",
+    "business_line": "Asset Management",
+    "region": "EMEA",
+    "entity_head": "Director Martinez",
+    "employee_count": 283,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 2,
+      "Compliance Risk": 3,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 2,
+      "Market Risk": 5,
+      "Liquidity Risk": 1,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-10-16",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0159",
+    "name": "Digital Banking NAM Unit C",
+    "business_line": "Digital Banking",
+    "region": "NAM",
+    "entity_head": "Director Williams",
+    "employee_count": 1646,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 4,
+      "Liquidity Risk": 1,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 3,
+      "Compliance Risk": 5,
+      "Market Risk": 3,
+      "Liquidity Risk": 1,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-12-03",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0160",
+    "name": "Risk Advisory APAC Unit B",
+    "business_line": "Risk Advisory",
+    "region": "APAC",
+    "entity_head": "Director Garcia",
+    "employee_count": 723,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 2,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-11-15",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0161",
+    "name": "Risk Advisory EMEA Unit C",
+    "business_line": "Risk Advisory",
+    "region": "EMEA",
+    "entity_head": "Director Kim",
+    "employee_count": 1693,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 4,
+      "Liquidity Risk": 1,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 4,
+      "Liquidity Risk": 1,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-12-22",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0162",
+    "name": "Trade Finance LATAM Unit C",
+    "business_line": "Trade Finance",
+    "region": "LATAM",
+    "entity_head": "Director Park",
+    "employee_count": 1121,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 3,
+      "Liquidity Risk": 5,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 5,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-12-23",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0163",
+    "name": "Asset Management NAM Unit D",
+    "business_line": "Asset Management",
+    "region": "NAM",
+    "entity_head": "Director Johnson",
+    "employee_count": 1088,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 3,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-10-18",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0164",
+    "name": "Asset Management NAM Unit A",
+    "business_line": "Asset Management",
+    "region": "NAM",
+    "entity_head": "Director Martinez",
+    "employee_count": 1872,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 1,
+      "Liquidity Risk": 1,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 4,
+      "Market Risk": 3,
+      "Liquidity Risk": 1,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-12-18",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0165",
+    "name": "Insurance Services LATAM Unit C",
+    "business_line": "Insurance Services",
+    "region": "LATAM",
+    "entity_head": "Director Johnson",
+    "employee_count": 1886,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 4,
+      "Liquidity Risk": 1,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 3,
+      "Liquidity Risk": 1,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-10-16",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0166",
+    "name": "Transaction Banking LATAM Unit A",
+    "business_line": "Transaction Banking",
+    "region": "LATAM",
+    "entity_head": "Director White",
+    "employee_count": 1398,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 1,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 2,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-12-17",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0167",
+    "name": "Private Banking EMEA Unit E",
+    "business_line": "Private Banking",
+    "region": "EMEA",
+    "entity_head": "Director Davis",
+    "employee_count": 610,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 2,
+      "Liquidity Risk": 5,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 5,
+      "Liquidity Risk": 5,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-11-11",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0168",
+    "name": "Private Banking NAM Unit B",
+    "business_line": "Private Banking",
+    "region": "NAM",
+    "entity_head": "Director Brown",
+    "employee_count": 1608,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 3,
+      "Liquidity Risk": 3,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-11-18",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0169",
+    "name": "Digital Banking LATAM Unit E",
+    "business_line": "Digital Banking",
+    "region": "LATAM",
+    "entity_head": "Director Miller",
+    "employee_count": 1593,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 4,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 2,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-12-02",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0170",
+    "name": "Transaction Banking LATAM Unit A",
+    "business_line": "Transaction Banking",
+    "region": "LATAM",
+    "entity_head": "Director Miller",
+    "employee_count": 1320,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 2,
+      "Compliance Risk": 4,
+      "Market Risk": 1,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 3,
+      "Compliance Risk": 4,
+      "Market Risk": 1,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-11-27",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0171",
+    "name": "Risk Advisory APAC Unit E",
+    "business_line": "Risk Advisory",
+    "region": "APAC",
+    "entity_head": "Director Smith",
+    "employee_count": 726,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 2,
+      "Compliance Risk": 1,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 2,
+      "Compliance Risk": 1,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-11-23",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0172",
+    "name": "Retail Banking NAM Unit C",
+    "business_line": "Retail Banking",
+    "region": "NAM",
+    "entity_head": "Director Thomas",
+    "employee_count": 238,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 3,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 5,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-11-08",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0173",
+    "name": "Insurance Services APAC Unit C",
+    "business_line": "Insurance Services",
+    "region": "APAC",
+    "entity_head": "Director Thomas",
+    "employee_count": 575,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 1,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-12-24",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0174",
+    "name": "Retail Banking APAC Unit E",
+    "business_line": "Retail Banking",
+    "region": "APAC",
+    "entity_head": "Director Lee",
+    "employee_count": 1761,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 5,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 3,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-10-07",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0175",
+    "name": "Insurance Services EMEA Unit B",
+    "business_line": "Insurance Services",
+    "region": "EMEA",
+    "entity_head": "Director Thomas",
+    "employee_count": 1428,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 1,
+      "Compliance Risk": 2,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 1,
+      "Compliance Risk": 3,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-10-18",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0176",
+    "name": "Insurance Services EMEA Unit E",
+    "business_line": "Insurance Services",
+    "region": "EMEA",
+    "entity_head": "Director Jones",
+    "employee_count": 1579,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 3,
+      "Market Risk": 5,
+      "Liquidity Risk": 3,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-11-26",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0177",
+    "name": "Insurance Services NAM Unit C",
+    "business_line": "Insurance Services",
+    "region": "NAM",
+    "entity_head": "Director Jones",
+    "employee_count": 379,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 1,
+      "Market Risk": 5,
+      "Liquidity Risk": 1,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 3,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 1,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-10-08",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0178",
+    "name": "Treasury Operations EMEA Unit B",
+    "business_line": "Treasury Operations",
+    "region": "EMEA",
+    "entity_head": "Director Brown",
+    "employee_count": 633,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 4,
+      "Compliance Risk": 3,
+      "Market Risk": 1,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-12-03",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0179",
+    "name": "Investment Banking LATAM Unit D",
+    "business_line": "Investment Banking",
+    "region": "LATAM",
+    "entity_head": "Director Anderson",
+    "employee_count": 1847,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 1,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-11-15",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0180",
+    "name": "Investment Banking APAC Unit D",
+    "business_line": "Investment Banking",
+    "region": "APAC",
+    "entity_head": "Director Johnson",
+    "employee_count": 1179,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 1,
+      "Compliance Risk": 5,
+      "Market Risk": 1,
+      "Liquidity Risk": 1,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 1,
+      "Compliance Risk": 4,
+      "Market Risk": 2,
+      "Liquidity Risk": 2,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-11-18",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0181",
+    "name": "Insurance Services NAM Unit C",
+    "business_line": "Insurance Services",
+    "region": "NAM",
+    "entity_head": "Director Wang",
+    "employee_count": 1992,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 5,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-12-22",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0182",
+    "name": "Capital Markets LATAM Unit C",
+    "business_line": "Capital Markets",
+    "region": "LATAM",
+    "entity_head": "Director Brown",
+    "employee_count": 1491,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 2,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 3,
+      "Compliance Risk": 1,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-12-21",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0183",
+    "name": "Transaction Banking APAC Unit E",
+    "business_line": "Transaction Banking",
+    "region": "APAC",
+    "entity_head": "Director White",
+    "employee_count": 389,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 5,
+      "Liquidity Risk": 5,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-10-03",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0184",
+    "name": "Treasury Operations NAM Unit B",
+    "business_line": "Treasury Operations",
+    "region": "NAM",
+    "entity_head": "Director Jones",
+    "employee_count": 1339,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 2,
+      "Compliance Risk": 1,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 1,
+      "Market Risk": 4,
+      "Liquidity Risk": 2,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-12-02",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0185",
+    "name": "Retail Banking NAM Unit C",
+    "business_line": "Retail Banking",
+    "region": "NAM",
+    "entity_head": "Director Garcia",
+    "employee_count": 1326,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-12-17",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0186",
+    "name": "Trade Finance APAC Unit D",
+    "business_line": "Trade Finance",
+    "region": "APAC",
+    "entity_head": "Director Park",
+    "employee_count": 1590,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 4,
+      "Compliance Risk": 1,
+      "Market Risk": 4,
+      "Liquidity Risk": 1,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 3,
+      "Compliance Risk": 2,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-10-03",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0187",
+    "name": "Insurance Services NAM Unit E",
+    "business_line": "Insurance Services",
+    "region": "NAM",
+    "entity_head": "Director Martinez",
+    "employee_count": 1275,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 4,
+      "Liquidity Risk": 1,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 4,
+      "Compliance Risk": 3,
+      "Market Risk": 5,
+      "Liquidity Risk": 1,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-12-14",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0188",
+    "name": "Treasury Operations EMEA Unit A",
+    "business_line": "Treasury Operations",
+    "region": "EMEA",
+    "entity_head": "Director Rodriguez",
+    "employee_count": 1443,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 1,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 1,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-11-25",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0189",
+    "name": "Asset Management LATAM Unit B",
+    "business_line": "Asset Management",
+    "region": "LATAM",
+    "entity_head": "Director Anderson",
+    "employee_count": 1690,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 2,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 4,
+      "Compliance Risk": 3,
+      "Market Risk": 1,
+      "Liquidity Risk": 2,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-12-20",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0190",
+    "name": "Trade Finance LATAM Unit A",
+    "business_line": "Trade Finance",
+    "region": "LATAM",
+    "entity_head": "Director Johnson",
+    "employee_count": 1986,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 4,
+      "Compliance Risk": 2,
+      "Market Risk": 5,
+      "Liquidity Risk": 5,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-10-21",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0191",
+    "name": "Private Banking EMEA Unit B",
+    "business_line": "Private Banking",
+    "region": "EMEA",
+    "entity_head": "Director Thomas",
+    "employee_count": 1250,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 3,
+      "Liquidity Risk": 2,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 5,
+      "Compliance Risk": 4,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-10-17",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0192",
+    "name": "Capital Markets EMEA Unit A",
+    "business_line": "Capital Markets",
+    "region": "EMEA",
+    "entity_head": "Director Park",
+    "employee_count": 652,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 4,
+      "Liquidity Risk": 1,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 5,
+      "Liquidity Risk": 1,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-11-04",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0193",
+    "name": "Risk Advisory APAC Unit D",
+    "business_line": "Risk Advisory",
+    "region": "APAC",
+    "entity_head": "Director Taylor",
+    "employee_count": 1107,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 4,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 1,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-12-01",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0194",
+    "name": "Treasury Operations APAC Unit A",
+    "business_line": "Treasury Operations",
+    "region": "APAC",
+    "entity_head": "Director Davis",
+    "employee_count": 465,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 1,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 1,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-10-27",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0195",
+    "name": "Trade Finance EMEA Unit A",
+    "business_line": "Trade Finance",
+    "region": "EMEA",
+    "entity_head": "Director Jones",
+    "employee_count": 160,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 1,
+      "Market Risk": 5,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 1,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-12-26",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0196",
+    "name": "Private Banking EMEA Unit E",
+    "business_line": "Private Banking",
+    "region": "EMEA",
+    "entity_head": "Director Chen",
+    "employee_count": 588,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 1,
+      "Liquidity Risk": 5,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 1,
+      "Liquidity Risk": 5,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-10-09",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0197",
+    "name": "Digital Banking APAC Unit C",
+    "business_line": "Digital Banking",
+    "region": "APAC",
+    "entity_head": "Director Lee",
+    "employee_count": 1803,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-11-07",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0198",
+    "name": "Structured Finance NAM Unit D",
+    "business_line": "Structured Finance",
+    "region": "NAM",
+    "entity_head": "Director Kim",
+    "employee_count": 1768,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 3,
+      "Liquidity Risk": 1,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 3,
+      "Compliance Risk": 5,
+      "Market Risk": 4,
+      "Liquidity Risk": 1,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-12-04",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0199",
+    "name": "Capital Markets APAC Unit C",
+    "business_line": "Capital Markets",
+    "region": "APAC",
+    "entity_head": "Director Kim",
+    "employee_count": 1636,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 3,
+      "Compliance Risk": 1,
+      "Market Risk": 2,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 2,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-12-15",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0200",
+    "name": "Asset Management APAC Unit D",
+    "business_line": "Asset Management",
+    "region": "APAC",
+    "entity_head": "Director Rodriguez",
+    "employee_count": 1867,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-11-25",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0201",
+    "name": "Capital Markets LATAM Unit D",
+    "business_line": "Capital Markets",
+    "region": "LATAM",
+    "entity_head": "Director Brown",
+    "employee_count": 587,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 2,
+      "Compliance Risk": 1,
+      "Market Risk": 1,
+      "Liquidity Risk": 5,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 1,
+      "Market Risk": 3,
+      "Liquidity Risk": 5,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-12-05",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0202",
+    "name": "Insurance Services LATAM Unit C",
+    "business_line": "Insurance Services",
+    "region": "LATAM",
+    "entity_head": "Director Chen",
+    "employee_count": 412,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 1,
+      "Liquidity Risk": 4,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 1,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-12-20",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0203",
+    "name": "Insurance Services LATAM Unit E",
+    "business_line": "Insurance Services",
+    "region": "LATAM",
+    "entity_head": "Director Smith",
+    "employee_count": 1458,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 3,
+      "Liquidity Risk": 1,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 3,
+      "Compliance Risk": 4,
+      "Market Risk": 2,
+      "Liquidity Risk": 1,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-11-25",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0204",
+    "name": "Wealth Management EMEA Unit D",
+    "business_line": "Wealth Management",
+    "region": "EMEA",
+    "entity_head": "Director Singh",
+    "employee_count": 1703,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-12-22",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0205",
+    "name": "Wealth Management APAC Unit D",
+    "business_line": "Wealth Management",
+    "region": "APAC",
+    "entity_head": "Director Martinez",
+    "employee_count": 601,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 4,
+      "Liquidity Risk": 2,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 3,
+      "Liquidity Risk": 5,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-10-23",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0206",
+    "name": "Capital Markets EMEA Unit B",
+    "business_line": "Capital Markets",
+    "region": "EMEA",
+    "entity_head": "Director Miller",
+    "employee_count": 1884,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 4,
+      "Market Risk": 1,
+      "Liquidity Risk": 1,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 4,
+      "Market Risk": 1,
+      "Liquidity Risk": 1,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-11-27",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0207",
+    "name": "Transaction Banking EMEA Unit A",
+    "business_line": "Transaction Banking",
+    "region": "EMEA",
+    "entity_head": "Director Chen",
+    "employee_count": 1116,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 2,
+      "Compliance Risk": 2,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 1,
+      "Compliance Risk": 1,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-10-09",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0208",
+    "name": "Insurance Services APAC Unit B",
+    "business_line": "Insurance Services",
+    "region": "APAC",
+    "entity_head": "Director Taylor",
+    "employee_count": 1628,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 3,
+      "Market Risk": 5,
+      "Liquidity Risk": 1,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 4,
+      "Market Risk": 4,
+      "Liquidity Risk": 2,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-10-08",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0209",
+    "name": "Private Banking EMEA Unit E",
+    "business_line": "Private Banking",
+    "region": "EMEA",
+    "entity_head": "Director Taylor",
+    "employee_count": 1533,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 5,
+      "Market Risk": 4,
+      "Liquidity Risk": 3,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 1,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 3,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-10-09",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0210",
+    "name": "Private Banking LATAM Unit E",
+    "business_line": "Private Banking",
+    "region": "LATAM",
+    "entity_head": "Director Chen",
+    "employee_count": 801,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 2,
+      "Compliance Risk": 3,
+      "Market Risk": 3,
+      "Liquidity Risk": 5,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 2,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-11-01",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0211",
+    "name": "Capital Markets NAM Unit A",
+    "business_line": "Capital Markets",
+    "region": "NAM",
+    "entity_head": "Director Brown",
+    "employee_count": 1121,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 1,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-12-03",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0212",
+    "name": "Transaction Banking NAM Unit B",
+    "business_line": "Transaction Banking",
+    "region": "NAM",
+    "entity_head": "Director Kim",
+    "employee_count": 1951,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 1,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-10-15",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0213",
+    "name": "Investment Banking LATAM Unit C",
+    "business_line": "Investment Banking",
+    "region": "LATAM",
+    "entity_head": "Director Garcia",
+    "employee_count": 1193,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 5,
+      "Liquidity Risk": 5,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 3,
+      "Compliance Risk": 2,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-12-18",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0214",
+    "name": "Capital Markets EMEA Unit E",
+    "business_line": "Capital Markets",
+    "region": "EMEA",
+    "entity_head": "Director Taylor",
+    "employee_count": 894,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 5,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-12-14",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0215",
+    "name": "Digital Banking NAM Unit E",
+    "business_line": "Digital Banking",
+    "region": "NAM",
+    "entity_head": "Director Miller",
+    "employee_count": 1802,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 3,
+      "Compliance Risk": 4,
+      "Market Risk": 1,
+      "Liquidity Risk": 1,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 1,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-11-01",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0216",
+    "name": "Risk Advisory NAM Unit A",
+    "business_line": "Risk Advisory",
+    "region": "NAM",
+    "entity_head": "Director Brown",
+    "employee_count": 1269,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 2,
+      "Market Risk": 1,
+      "Liquidity Risk": 2,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 3,
+      "Compliance Risk": 2,
+      "Market Risk": 2,
+      "Liquidity Risk": 2,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-12-10",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0217",
+    "name": "Capital Markets LATAM Unit A",
+    "business_line": "Capital Markets",
+    "region": "LATAM",
+    "entity_head": "Director Anderson",
+    "employee_count": 1155,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 3,
+      "Compliance Risk": 4,
+      "Market Risk": 2,
+      "Liquidity Risk": 1,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 3,
+      "Liquidity Risk": 1,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-12-05",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0218",
+    "name": "Commercial Banking NAM Unit B",
+    "business_line": "Commercial Banking",
+    "region": "NAM",
+    "entity_head": "Director Thomas",
+    "employee_count": 587,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 3,
+      "Liquidity Risk": 2,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 3,
+      "Liquidity Risk": 2,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-10-13",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0219",
+    "name": "Structured Finance NAM Unit B",
+    "business_line": "Structured Finance",
+    "region": "NAM",
+    "entity_head": "Director Lee",
+    "employee_count": 798,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 2,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-11-07",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0220",
+    "name": "Investment Banking EMEA Unit C",
+    "business_line": "Investment Banking",
+    "region": "EMEA",
+    "entity_head": "Director Martinez",
+    "employee_count": 78,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 1,
+      "Market Risk": 2,
+      "Liquidity Risk": 1,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 4,
+      "Compliance Risk": 1,
+      "Market Risk": 2,
+      "Liquidity Risk": 1,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-11-23",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0221",
+    "name": "Wealth Management LATAM Unit D",
+    "business_line": "Wealth Management",
+    "region": "LATAM",
+    "entity_head": "Director Martinez",
+    "employee_count": 461,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 3,
+      "Compliance Risk": 4,
+      "Market Risk": 1,
+      "Liquidity Risk": 5,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-12-20",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0222",
+    "name": "Retail Banking LATAM Unit A",
+    "business_line": "Retail Banking",
+    "region": "LATAM",
+    "entity_head": "Director Miller",
+    "employee_count": 1075,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 1,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 1,
+      "Market Risk": 3,
+      "Liquidity Risk": 1,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-11-18",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0223",
+    "name": "Retail Banking NAM Unit E",
+    "business_line": "Retail Banking",
+    "region": "NAM",
+    "entity_head": "Director Jones",
+    "employee_count": 749,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 2,
+      "Compliance Risk": 3,
+      "Market Risk": 5,
+      "Liquidity Risk": 3,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 2,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-11-22",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0224",
+    "name": "Corporate Lending LATAM Unit E",
+    "business_line": "Corporate Lending",
+    "region": "LATAM",
+    "entity_head": "Director Jones",
+    "employee_count": 682,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 3,
+      "Liquidity Risk": 2,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 3,
+      "Liquidity Risk": 3,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-12-23",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0225",
+    "name": "Asset Management NAM Unit E",
+    "business_line": "Asset Management",
+    "region": "NAM",
+    "entity_head": "Director Jones",
+    "employee_count": 428,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 1,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 4,
+      "Compliance Risk": 2,
+      "Market Risk": 1,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-10-25",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0226",
+    "name": "Digital Banking NAM Unit E",
+    "business_line": "Digital Banking",
+    "region": "NAM",
+    "entity_head": "Director Davis",
+    "employee_count": 116,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 3,
+      "Compliance Risk": 2,
+      "Market Risk": 4,
+      "Liquidity Risk": 2,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-11-25",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0227",
+    "name": "Risk Advisory APAC Unit D",
+    "business_line": "Risk Advisory",
+    "region": "APAC",
+    "entity_head": "Director Singh",
+    "employee_count": 1973,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-12-19",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0228",
+    "name": "Commercial Banking EMEA Unit D",
+    "business_line": "Commercial Banking",
+    "region": "EMEA",
+    "entity_head": "Director Singh",
+    "employee_count": 1932,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 2,
+      "Compliance Risk": 1,
+      "Market Risk": 1,
+      "Liquidity Risk": 4,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 2,
+      "Compliance Risk": 2,
+      "Market Risk": 1,
+      "Liquidity Risk": 4,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-10-23",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0229",
+    "name": "Private Banking LATAM Unit A",
+    "business_line": "Private Banking",
+    "region": "LATAM",
+    "entity_head": "Director Williams",
+    "employee_count": 283,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-12-15",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0230",
+    "name": "Corporate Lending LATAM Unit E",
+    "business_line": "Corporate Lending",
+    "region": "LATAM",
+    "entity_head": "Director Brown",
+    "employee_count": 1890,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 1,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 1,
+      "Technology Risk": 4
+    },
+    "last_assessment_date": "2025-10-07",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0231",
+    "name": "Digital Banking APAC Unit A",
+    "business_line": "Digital Banking",
+    "region": "APAC",
+    "entity_head": "Director Singh",
+    "employee_count": 1337,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 5,
+      "Compliance Risk": 4,
+      "Market Risk": 4,
+      "Liquidity Risk": 1,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 4,
+      "Liquidity Risk": 1,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-12-27",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0232",
+    "name": "Retail Banking NAM Unit B",
+    "business_line": "Retail Banking",
+    "region": "NAM",
+    "entity_head": "Director Garcia",
+    "employee_count": 982,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 5,
+      "Market Risk": 1,
+      "Liquidity Risk": 2,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 3,
+      "Compliance Risk": 4,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-12-19",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0233",
+    "name": "Risk Advisory EMEA Unit A",
+    "business_line": "Risk Advisory",
+    "region": "EMEA",
+    "entity_head": "Director Johnson",
+    "employee_count": 273,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 1,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 2,
+      "Compliance Risk": 1,
+      "Market Risk": 1,
+      "Liquidity Risk": 4,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-12-24",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0234",
+    "name": "Private Banking APAC Unit D",
+    "business_line": "Private Banking",
+    "region": "APAC",
+    "entity_head": "Director Smith",
+    "employee_count": 292,
+    "self_assessed_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 5,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-10-15",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0235",
+    "name": "Capital Markets NAM Unit E",
+    "business_line": "Capital Markets",
+    "region": "NAM",
+    "entity_head": "Director Anderson",
+    "employee_count": 861,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 1,
+      "Market Risk": 3,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 1,
+      "Market Risk": 3,
+      "Liquidity Risk": 3,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-12-19",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0236",
+    "name": "Transaction Banking NAM Unit B",
+    "business_line": "Transaction Banking",
+    "region": "NAM",
+    "entity_head": "Director Chen",
+    "employee_count": 1147,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 4,
+      "Technology Risk": 5
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 5,
+      "Liquidity Risk": 3,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-10-07",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0237",
+    "name": "Structured Finance APAC Unit A",
+    "business_line": "Structured Finance",
+    "region": "APAC",
+    "entity_head": "Director Taylor",
+    "employee_count": 975,
+    "self_assessed_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 3,
+      "Compliance Risk": 2,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 4,
+      "Compliance Risk": 2,
+      "Market Risk": 1,
+      "Liquidity Risk": 3,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-11-07",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0238",
+    "name": "Trade Finance EMEA Unit C",
+    "business_line": "Trade Finance",
+    "region": "EMEA",
+    "entity_head": "Director Jones",
+    "employee_count": 470,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 4,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 3,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-12-02",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0239",
+    "name": "Asset Management EMEA Unit A",
+    "business_line": "Asset Management",
+    "region": "EMEA",
+    "entity_head": "Director White",
+    "employee_count": 1424,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 1,
+      "Market Risk": 1,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 1,
+      "Compliance Risk": 1,
+      "Market Risk": 1,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-10-09",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0240",
+    "name": "Trade Finance APAC Unit A",
+    "business_line": "Trade Finance",
+    "region": "APAC",
+    "entity_head": "Director Chen",
+    "employee_count": 958,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 5,
+      "Technology Risk": 3
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 4,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-10-05",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0241",
+    "name": "Private Banking EMEA Unit A",
+    "business_line": "Private Banking",
+    "region": "EMEA",
+    "entity_head": "Director Wang",
+    "employee_count": 319,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 4,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 5,
+      "Operational Risk": 5,
+      "Compliance Risk": 5,
+      "Market Risk": 5,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-10-27",
+    "assessment_status": "In Progress"
+  },
+  {
+    "id": "ENT-0242",
+    "name": "Corporate Lending LATAM Unit C",
+    "business_line": "Corporate Lending",
+    "region": "LATAM",
+    "entity_head": "Director Kim",
+    "employee_count": 994,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 2,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 3,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 2,
+      "Liquidity Risk": 2,
+      "Technology Risk": 1
+    },
+    "last_assessment_date": "2025-10-10",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0243",
+    "name": "Digital Banking NAM Unit E",
+    "business_line": "Digital Banking",
+    "region": "NAM",
+    "entity_head": "Director Wang",
+    "employee_count": 932,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 3,
+      "Compliance Risk": 3,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 2,
+      "Compliance Risk": 3,
+      "Market Risk": 5,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-11-19",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0244",
+    "name": "Commercial Banking NAM Unit B",
+    "business_line": "Commercial Banking",
+    "region": "NAM",
+    "entity_head": "Director Williams",
+    "employee_count": 495,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 4,
+      "Compliance Risk": 4,
+      "Market Risk": 4,
+      "Liquidity Risk": 1,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 2,
+      "Operational Risk": 5,
+      "Compliance Risk": 3,
+      "Market Risk": 4,
+      "Liquidity Risk": 2,
+      "Technology Risk": 3
+    },
+    "last_assessment_date": "2025-10-19",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0245",
+    "name": "Structured Finance NAM Unit B",
+    "business_line": "Structured Finance",
+    "region": "NAM",
+    "entity_head": "Director Park",
+    "employee_count": 877,
+    "self_assessed_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 1
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 5,
+      "Compliance Risk": 2,
+      "Market Risk": 3,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-10-28",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0246",
+    "name": "Retail Banking APAC Unit E",
+    "business_line": "Retail Banking",
+    "region": "APAC",
+    "entity_head": "Director Jones",
+    "employee_count": 435,
+    "self_assessed_scores": {
+      "Credit Risk": 1,
+      "Operational Risk": 3,
+      "Compliance Risk": 1,
+      "Market Risk": 4,
+      "Liquidity Risk": 4,
+      "Technology Risk": 2
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 4,
+      "Operational Risk": 4,
+      "Compliance Risk": 2,
+      "Market Risk": 4,
+      "Liquidity Risk": 5,
+      "Technology Risk": 2
+    },
+    "last_assessment_date": "2025-12-13",
+    "assessment_status": "Completed"
+  },
+  {
+    "id": "ENT-0247",
+    "name": "Transaction Banking LATAM Unit B",
+    "business_line": "Transaction Banking",
+    "region": "LATAM",
+    "entity_head": "Director Lee",
+    "employee_count": 1326,
+    "self_assessed_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 2,
+      "Compliance Risk": 2,
+      "Market Risk": 4,
+      "Liquidity Risk": 1,
+      "Technology Risk": 4
+    },
+    "system_calculated_scores": {
+      "Credit Risk": 3,
+      "Operational Risk": 1,
+      "Compliance Risk": 2,
+      "Market Risk": 4,
+      "Liquidity Risk": 3,
+      "Technology Risk": 5
+    },
+    "last_assessment_date": "2025-10-15",
+    "assessment_status": "In Progress"
+  }
+]
